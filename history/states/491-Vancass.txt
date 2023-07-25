@@ -8,7 +8,7 @@ state={
 	manpower=2831400
 	history={
 		victory_points = {
-			1402 50
+			1636 50
 		}
 		buildings = {
 			infrastructure = 4

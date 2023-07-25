@@ -1,0 +1,128 @@
+characters={
+	FRS_godbert_ii={
+		name=FRS_godbert_ii
+		portraits={
+			civilian={
+				large=GFX_portrait_unknown
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits={ }
+			expire="1960.1.1.1"
+		}
+	}
+	FRS_haedric_aelgon={
+		name=FRS_haedric_aelgon
+		portraits={
+			civilian={
+				large=GFX_portrait_unknown
+			}
+		}
+		country_leader={
+			ideology=centrism
+			traits={ }
+			expire="1960.1.1.1"
+		}
+	}
+	FRS_wulfric_deir={
+		name=FRS_wulfric_deir
+		portraits={
+			civilian={
+				large=GFX_portrait_unknown
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits={ }
+			expire="1960.1.1.1"
+		}
+	}
+	FRS_vadren_hadril={
+		name=FRS_vadren_hadril
+		portraits={
+			civilian={
+				large=GFX_portrait_unknown
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits={ }
+			expire="1960.1.1.1"
+		}
+	}
+
+	FRS_edmund_cynefrith={
+		name=FRS_edmund_cynefrith
+		portraits={
+			army={
+				small=GFX_idea_unknown
+				large=GFX_portrait_unknown
+			}
+		}
+
+		corps_commander={
+			traits={ trait_cautious }
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+	FRS_deorwine_wynnstan={
+		name=FRS_deorwine_wynnstan
+		portraits={
+			army={
+				small=GFX_idea_unknown
+				large=GFX_portrait_unknown
+			}
+		}
+
+		navy_leader={
+			traits={ bold superior_tactician }
+			skill=4
+			attack_skill=4
+			defense_skill=2
+			maneuvering_skill=3
+			coordination_skill=4
+		}
+	}
+	FRS_oswine_uhtric={
+		name=FRS_oswine_uhtric
+		portraits={
+			army={
+				small=GFX_idea_unknown
+				large=GFX_portrait_unknown
+			}
+		}
+
+		navy_leader={
+			traits={ navy_career_officer seawolf }
+			skill=3
+			attack_skill=4
+			defense_skill=2
+			maneuvering_skill=2
+			coordination_skill=2
+		}
+	}
+	FRS_leofric_heard={
+		name=FRS_leofric_heard
+		portraits={
+			army={
+				small=GFX_idea_unknown
+				large=GFX_portrait_unknown
+			}
+		}
+
+		navy_leader={
+			traits={ battleship_adherent }
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			maneuvering_skill=2
+			coordination_skill=3
+		}
+	}
+}

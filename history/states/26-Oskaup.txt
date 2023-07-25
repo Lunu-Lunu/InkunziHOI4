@@ -21,6 +21,7 @@ state={
 		owner = MLK
 		controller = MLK
 		set_compliance = 80
+		add_core_of = ESM
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -1,0 +1,66 @@
+ideas = {
+	country = {
+		FRS_godbert_spirit = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = communism }
+			}
+
+			removal_cost = -1
+
+			picture = generic_monarchist_uprising
+
+			modifier = {
+				stability_factor = 0.05
+				surrender_limit = 0.05
+			}
+		}
+		FRS_lidmann_industrial_complex = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = man_five_year_plan_industry
+
+			modifier = {
+				production_lack_of_resource_penalty_factor = -0.25
+				production_factory_max_efficiency_factor = 0.1
+			}
+		}
+		FRS_emphasized_navy = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = generic_navy_bonus
+
+			modifier = {
+				industrial_capacity_dockyard = 0.1
+				production_speed_dockyard_factor = 0.1
+				ai_focus_naval_factor = 0.5
+				experience_gain_navy_factor = 0.25
+				naval_coordination = 0.1
+				experience_gain_army_factor = -0.25
+				army_org_factor = -0.1
+			}
+			research_bonus = {
+				naval = 0.1
+			}
+		}
+	}
+}

@@ -13,8 +13,8 @@ state={
 		}
 		owner = TNU
 		controller = TNU
-		#add_core_of = TNU
-		# check who this should be core of (if anybody)
+		add_core_of = TNU
+		# check who this should be core of (if anybody) <-- it's nobody i'll just let tunnu core it
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

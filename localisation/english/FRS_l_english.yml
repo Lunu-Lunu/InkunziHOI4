@@ -1,0 +1,41 @@
+﻿l_english:
+  ### Political ###
+  FRS:0 "Froscburgen"
+  FRS_DEF:0 "Froscburgen"
+  FRS_ADJ:0 "Froscburger"
+  FRS_neutrality_DEF:0 "the Kingdom of Froscburgen"
+  FRS_democratic:0 "Cyningate of Froscburgen"
+  FRS_democratic_DEF:0 "the Cyningate of Froscburgen"
+  FRS_fascism:0 "Second Melkhian Empire"
+  FRS_fascism_DEF:0 "the Second Melkhian Empire"
+  FRS_fascism_ADJ:0 "Lidmann"
+  FRS_communism:0 "Patrixist People's Republic of Froscburgen"
+  FRS_communism_DEF:0 "the Patrixist People's Republic of Froscburgen"
+
+  FRS_neutrality_party:0 "House Lidmann"
+  FRS_democratic_party:0 "FCL"
+  FRS_democratic_party_long:0 "Froscburgen Cynnist League"
+  FRS_communism_party:0 "FPF"
+  FRS_communism_party_long:0 "Froscburgen Patrixist Front"
+  FRS_fascism_party:0 "Lidmann Restorationists"
+
+  ### Character ###
+  FRS_godbert_ii:0 "Godbert II Lidmann"
+  FRS_haedric_aelgon:0 "Haedric Aelgon"
+  FRS_wulfric_deir:0 "Wulfric Deir"
+  FRS_vadren_hadril:0 "Vadren Hadril"
+  FRS_edmund_cynefrith:0 "Edmund Cynefrith"
+  FRS_deorwine_wynnstan:0 "Deorwine Wynnstan"
+  FRS_oswine_uhtric:0 "Oswine Uhtric"
+  FRS_leofric_heard:0 "Leofric Heard"
+
+  ### Focus ###
+
+  ### Idea ###
+  FRS_godbert_spirit:0 "Godbert II Lidmann"
+  FRS_lidmann_industrial_complex:0 "Lidmann Industrial Complex"
+  FRS_emphasized_navy:0 "Naval Emphasis"
+
+  ### Event ###
+
+  ### Other ###

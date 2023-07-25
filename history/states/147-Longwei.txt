@@ -23,8 +23,8 @@ state={
 		}
 		owner = USP
 		controller = USP
-		add_core_of = USP
-		add_core_of = DAH
+		#add_core_of = USP
+		#add_core_of = DAH
 		add_core_of = JIN
 		set_compliance = 60
 	}

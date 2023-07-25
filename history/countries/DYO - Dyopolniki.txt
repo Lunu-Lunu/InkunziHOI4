@@ -70,11 +70,11 @@ if = {
 	}
 	set_autonomy = {
 		target = BRS
-		autonomy = autonomy_puppet
+		autonomy_state = autonomy_puppet
 	}
 	set_autonomy = {
 		target = SHS
-		autonomy = autonomy_dominion
+		autonomy_state = autonomy_dominion
 	}
 	else = {
 		puppet = BRS

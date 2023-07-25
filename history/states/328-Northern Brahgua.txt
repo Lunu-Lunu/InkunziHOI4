@@ -19,6 +19,7 @@ state={
 		owner = NBR
 		controller = NBR
 		add_core_of = NBR
+		add_core_of = SBR
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

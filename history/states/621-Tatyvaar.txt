@@ -13,7 +13,7 @@ state={
 		}
 		owner = USP
 		controller = USP
-		add_core_of = USP
+		#add_core_of = USP
 		add_core_of = ZAH
 		set_compliance = 60
 	}

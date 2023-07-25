@@ -19,7 +19,7 @@ state={
 		}
 		owner = USP
 		controller = USP
-		add_core_of = USP
+		#add_core_of = USP
 		add_core_of = LAS
 		set_compliance = 60
 	}

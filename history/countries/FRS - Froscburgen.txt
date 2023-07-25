@@ -51,6 +51,21 @@ if = {
 	}
 }
 
+recruit_character = FRS_godbert_ii
+recruit_character = FRS_haedric_aelgon
+recruit_character = FRS_wulfric_deir
+recruit_character = FRS_vadren_hadril
+recruit_character = FRS_edmund_cynefrith
+recruit_character = FRS_deorwine_wynnstan
+recruit_character = FRS_oswine_uhtric
+recruit_character = FRS_leofric_heard
+
+add_ideas = {
+	FRS_godbert_spirit
+	FRS_lidmann_industrial_complex
+	FRS_emphasized_navy
+}
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1936.1.1"
@@ -62,10 +77,4 @@ set_popularities = {
 	fascism = 6
 	democratic = 30
 	communism = 3
-}
-
-create_country_leader = {
-	name = "Leader"
-	ideology = despotism
-	traits = {}
 }

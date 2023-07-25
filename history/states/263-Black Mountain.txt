@@ -18,7 +18,7 @@ state={
 		owner = OCL
 		controller = OCL
 		set_compliance = 60
-		#add_core_of = OCL
+		add_core_of = ZAD
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

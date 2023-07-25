@@ -17,6 +17,7 @@ state={
 		owner = LAS
 		controller = LAS
 		add_core_of = LAS
+		add_core_of = NOZ
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

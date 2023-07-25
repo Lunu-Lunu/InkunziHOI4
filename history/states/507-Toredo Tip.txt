@@ -14,6 +14,7 @@ state={
 		owner = TNU
 		controller = TNU
 		set_compliance = 60
+		add_core_of = KYT
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
