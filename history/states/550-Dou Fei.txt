@@ -27,8 +27,9 @@ state={
 			industrial_complex = 4
 			arms_factory = 2
 		}
-		owner = DAH
-		controller = DAH
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = DAH
 	}
 	buildings_max_level_factor=1.000

@@ -16,8 +16,9 @@ state={
 			arms_factory = 1
 			6492 = { naval_base = 1 }
 		}
-		owner = KAR
-		controller = KAR
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = KAR
 	}
 	buildings_max_level_factor=1.000

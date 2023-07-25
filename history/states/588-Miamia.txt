@@ -15,8 +15,9 @@ state={
 			industrial_complex = 1
 			2929 = { naval_base = 2 }
 		}
-		owner = MRZ
-		controller = MRZ
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = MRZ
 	}
 	buildings_max_level_factor=1.000
