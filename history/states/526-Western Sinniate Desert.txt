@@ -7,9 +7,9 @@ state={
 	state_category = wasteland
 	manpower=14
 	history={
-		owner = KAR
-		controller = KAR
-		add_core_of = KAR
+		owner = USP
+		controller = USP
+		add_core_of = USP
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -10,8 +10,9 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		owner = MRZ
-		controller = MRZ
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = MRZ
 	}
 	buildings_max_level_factor=1.000

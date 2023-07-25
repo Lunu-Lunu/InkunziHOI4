@@ -17,8 +17,9 @@ state={
 			dockyard = 1
 			4131 = { naval_base = 5 }
 		}
-		owner = MRZ
-		controller = MRZ
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = MRZ
 	}
 	buildings_max_level_factor=1.000

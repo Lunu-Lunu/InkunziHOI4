@@ -11,8 +11,9 @@ state={
 			infrastructure = 2
 			7062 = { naval_base = 3 }
 		}
-		owner = KAR
-		controller = KAR
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = ZAH
 		set_compliance = 60
 	}

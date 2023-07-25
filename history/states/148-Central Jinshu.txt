@@ -12,9 +12,12 @@ state={
 			industrial_complex = 1
 			6588 = { naval_base = 1 }
 		}
-		owner = JIN
-		controller = JIN
+		owner = USP
+		controller = USP
+		add_core_of = USP
+		add_core_of = DAH
 		add_core_of = JIN
+		set_compliance = 60
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

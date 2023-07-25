@@ -11,8 +11,9 @@ state={
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		owner = MRH
-		controller = MRH
+		owner = USP
+		controller = USP
+		add_core_of = USP
 		add_core_of = MRH
 	}
 	buildings_max_level_factor=1.000
