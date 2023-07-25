@@ -1,0 +1,19 @@
+state={
+	id=582
+	name="STATE_582"
+	provinces={
+		137 533 642 717 1049 1881 2060 2476 2738 3101 6202 6235 6251 6252 6253 6262 6268 6273 6281 6286 6291 6293 6295 
+	}
+	state_category = rural
+	manpower=551040
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+		owner = SIE
+		controller = SIE
+		add_core_of = SIE
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

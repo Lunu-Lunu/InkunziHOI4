@@ -1,0 +1,24 @@
+state={
+	id=436
+	name="STATE_436"
+	provinces={
+		3164 7266 7268 7272 7285 7292 7294 7296 7298 7299 7300 7301 7303 7306 7308 7309 7310 7312 7314 7315 7320 7321 7323 
+	}
+	state_category = town
+	manpower=1449000
+	history={
+		victory_points = {
+			3164 1
+		}
+		buildings = {
+			infrastructure = 3
+			3164 = { naval_base = 3 }
+		}
+		owner = TNU
+		controller = TNU
+		set_compliance = 60
+		#add_core_of = TNU
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

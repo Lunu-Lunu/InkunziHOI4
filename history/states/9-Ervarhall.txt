@@ -1,0 +1,24 @@
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		387 549 671 712 1115 1354 1608 1935 1983 2567 2678 3320 3681 4975 5009 5020 5049 5052 5098 5119 5124 
+	}
+	state_category = large_town
+	manpower=3375800
+	history={
+		victory_points = {
+			1608 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = EDW
+		controller = EDW
+		add_core_of = EDW
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

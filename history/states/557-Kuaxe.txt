@@ -1,0 +1,21 @@
+state={
+	id=557
+	name="STATE_557"
+	provinces={
+		216 625 1580 1856 3740 4002 6317 6349 6361 6365 6376 
+	}
+	state_category = town
+	manpower=1092200
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			6365 = { naval_base = 3 }
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

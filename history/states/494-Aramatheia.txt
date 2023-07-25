@@ -1,0 +1,20 @@
+state={
+	id=494
+	name="STATE_494"
+	provinces={
+		723 1243 1453 2352 2455 2914 3132 3143 3478 5116 5142 5169 5203 5217 5246 5263 5279 5305 5336 
+	}
+	state_category = rural
+	manpower=557400
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

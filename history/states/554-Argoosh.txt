@@ -1,0 +1,23 @@
+state={
+	id=554
+	name="STATE_554"
+	provinces={
+		121 688 901 1000 1075 1941 2119 2282 3440 4091 6032 6059 6072 
+	}
+	state_category = large_town
+	manpower=1530480
+	history={
+		victory_points = {
+			4091 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

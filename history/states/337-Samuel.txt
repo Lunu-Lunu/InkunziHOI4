@@ -1,0 +1,25 @@
+
+state={
+	id=337
+	name="STATE_337"
+	provinces={
+		1655 1821 3593 4041 5559 5602 5625 8199 
+	}
+	state_category = large_town
+	manpower=3029600
+	history={
+		victory_points = {
+			1821 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = AUR
+		controller = AUR
+		add_core_of = AUR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

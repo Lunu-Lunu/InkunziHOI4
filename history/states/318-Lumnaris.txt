@@ -1,0 +1,26 @@
+state={
+	id=318
+	name="STATE_318"
+	provinces={
+		512 2135 2698 5552 5566 5581 
+	}
+	state_category = city
+	manpower=2756000
+	history={
+		victory_points = {
+			5566 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			5566 = { naval_base = 3 }
+		}
+		owner = SCC
+		controller = SCC
+		add_core_of = SCC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

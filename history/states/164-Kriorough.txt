@@ -1,0 +1,30 @@
+state={
+	id=164
+	name="STATE_164"
+	provinces={
+		2725 3038 3339 3591 6044 7267 7269 7271 
+	}
+	state_category = city
+	manpower=5222828
+	history={
+		victory_points = {
+			2725 10
+		}
+		victory_points = {
+			7271 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			2725 = { naval_base = 3 }
+			7271 = { naval_base = 1 }
+		}
+		owner = CNC
+		controller = CNC
+		add_core_of = CNC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

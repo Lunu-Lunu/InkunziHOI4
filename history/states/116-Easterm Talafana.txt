@@ -1,0 +1,19 @@
+state={
+	id=116
+	name="STATE_116"
+	provinces={
+		453 834 989 2876 3123 3403 3510 3553 3574 4072 6602 6627 6628 
+	}
+	state_category = rural
+	manpower=801993
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

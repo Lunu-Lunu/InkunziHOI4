@@ -1,0 +1,21 @@
+state={
+	id=245
+	name="STATE_245"
+	provinces={
+		1558 1794 2176 2264 3762 5793 5809 5812 
+	}
+	state_category = town
+	manpower=2435520
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+		owner = KRN
+		controller = KRN
+		add_core_of = KRN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

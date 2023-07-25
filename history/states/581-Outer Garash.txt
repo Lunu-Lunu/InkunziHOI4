@@ -1,0 +1,22 @@
+
+state={
+	id=581
+	name="STATE_581"
+	provinces={
+		172 816 1104 1779 2609 3024 3266 3847 6123 6142 6143 6151 6157 6161 6163 6178 6183 6188 6229 7187 
+	}
+	state_category = town
+	manpower=2589600
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = SIE
+		controller = SIE
+		add_core_of = SIE
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

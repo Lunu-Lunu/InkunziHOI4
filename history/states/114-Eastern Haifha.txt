@@ -1,0 +1,21 @@
+state={
+	id=114
+	name="STATE_114"
+	provinces={
+		6650 6658 6669 8223 
+	}
+	state_category = town
+	manpower=1599054
+	history={
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			6658 = { naval_base = 1 }
+		}
+		owner = HFH
+		controller = HFH
+		add_core_of = HFH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

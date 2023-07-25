@@ -1,0 +1,26 @@
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		3757 
+	}
+	state_category = large_town
+	manpower=622920
+	history={
+		victory_points = {
+			3757 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			3757 = { naval_base = 3 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = JIN
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

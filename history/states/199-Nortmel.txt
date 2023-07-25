@@ -1,0 +1,19 @@
+state={
+	id=199
+	name="STATE_199"
+	provinces={
+		2 147 230 760 1239 2521 2833 3006 3716 3854 4340 
+	}
+	state_category = wasteland
+	manpower=10215
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

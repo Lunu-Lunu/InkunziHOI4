@@ -1,0 +1,24 @@
+state={
+	id=357
+	name="STATE_357"
+	provinces={
+		1023 2423 3649 5356 8194 
+	}
+	state_category = large_town
+	manpower=3946320
+	history={
+		victory_points = {
+			3649 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = MNG
+		controller = MNG
+		add_core_of = MNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

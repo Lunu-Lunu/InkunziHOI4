@@ -1,0 +1,20 @@
+state={
+	id=7
+	name="STATE_7"
+	provinces={
+		33 437 1845 2218 3128 3602 3707 4983 5019 5071 5101 
+	}
+	state_category = town
+	manpower=2008501
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = EDW
+		controller = EDW
+		add_core_of = EDW
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

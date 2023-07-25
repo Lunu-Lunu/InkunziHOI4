@@ -1,0 +1,30 @@
+state={
+	id=530
+	name="STATE_530"
+	provinces={
+		376 709 931 1197 2075 2727 5740 5781 5826 5837 5873 5905 
+	}
+	state_category = large_city
+	manpower=6203720
+	history={
+		victory_points = {
+			1197 15
+		}
+		victory_points = {
+			2727 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			1197 = { naval_base = 3 }
+			2727 = { naval_base = 2 }
+		}
+		owner = OPI
+		controller = OPI
+		add_core_of = OPI
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=420
+	name="STATE_420"
+	provinces={
+		4779 
+	}
+	state_category = large_city
+	manpower=3661200
+	history={
+		victory_points = {
+			4779 10
+		}
+		buildings={
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			4779 = { naval_base = 5 }
+		}
+		owner = FCC
+		controller = FCC
+		add_core_of = FCC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

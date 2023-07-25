@@ -1,0 +1,21 @@
+state={
+	id=193
+	name="STATE_193"
+	provinces={
+		880 1058 1452 1709 2860 3830 4214 4826 4868 4907 7054 
+	}
+	state_category = rural
+	manpower=1698480
+	history={
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			7054 = { naval_base = 1 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

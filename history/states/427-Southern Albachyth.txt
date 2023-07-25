@@ -1,0 +1,21 @@
+state={
+	id=427
+	name="STATE_427"
+	provinces={
+		1135 1368 1850 1914 2251 2578 3637 3962 4013 5239 5298 
+	}
+	state_category = town
+	manpower=625440
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

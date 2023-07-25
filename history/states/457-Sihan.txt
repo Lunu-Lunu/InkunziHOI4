@@ -1,0 +1,26 @@
+state={
+	id=457
+	name="STATE_457"
+	provinces={
+		314 351 654 749 1066 1300 1780 3696 4136 5677 7077 
+	}
+	state_category = large_city
+	manpower=7840160
+	history={
+		victory_points = {
+			4136 40
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			4136 = { naval_base = 5 }
+		}
+		owner = KID
+		controller = KID
+		add_core_of = KID
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

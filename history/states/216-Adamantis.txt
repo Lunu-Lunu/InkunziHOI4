@@ -1,0 +1,27 @@
+
+state={
+	id=216
+	name="STATE_216"
+	provinces={
+		604 909 1661 1699 5185 5186 5230 5257 5276 
+	}
+	state_category = large_city
+	manpower=4822080
+	history={
+		victory_points = {
+			604 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			604 = { naval_base = 7 }
+		}
+		owner = RIV
+		controller = RIV
+		add_core_of = RIV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

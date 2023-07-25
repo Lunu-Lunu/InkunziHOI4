@@ -1,0 +1,24 @@
+state={
+	id=358
+	name="STATE_358"
+	provinces={
+		990 2065 3093 3369 4088 4158 5251 5285 7057 8189 
+	}
+	state_category = large_town
+	manpower=2499360
+	history={
+		victory_points = {
+			5251 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = MNG
+		controller = MNG
+		add_core_of = MNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

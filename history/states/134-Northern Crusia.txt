@@ -1,0 +1,20 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		1772 1807 2073 3433 4182 4191 6788 6793 6796 6803 
+	}
+	state_category = rural
+	manpower=807885
+	history={
+		buildings = {
+			infrastructure = 2
+			6803 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

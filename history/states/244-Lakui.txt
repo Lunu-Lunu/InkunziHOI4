@@ -1,0 +1,26 @@
+
+state={
+	id=244
+	name="STATE_244"
+	provinces={
+		454 1919 2335 2679 2950 3597 3970 5779 5796 5801 5816 5843 8204 
+	}
+	state_category = city
+	manpower=3063200
+	history={
+		victory_points = {
+			5779 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			2679 = { naval_base = 1 }
+		}
+		owner = KRN
+		controller = KRN
+		add_core_of = KRN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

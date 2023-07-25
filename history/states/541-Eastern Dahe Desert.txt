@@ -1,0 +1,20 @@
+
+state={
+	id=541
+	name="STATE_541"
+	provinces={
+		143 149 289 634 700 785 1774 1847 2250 2295 2482 2812 3363 3669 4050 4236 5819 5899 5908 5942 
+	}
+	state_category = wasteland
+	manpower=159520
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = MYC
+		controller = MYC
+		add_core_of = MYC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

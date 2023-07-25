@@ -1,0 +1,20 @@
+state={
+	id=598
+	name="STATE_598"
+	provinces={
+		581 680 819 1029 1482 1797 2603 2777 3564 3947 6301 6312 6387 
+	}
+	state_category = town
+	manpower=1263640
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = MRH
+		controller = MRH
+		add_core_of = MRH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

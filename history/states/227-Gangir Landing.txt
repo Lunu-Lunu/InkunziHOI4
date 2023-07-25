@@ -1,0 +1,22 @@
+state={
+	id=227
+	name="STATE_227"
+	provinces={
+		1160 1262 1541 1571 1683 2990 3841 5972 5979 
+	}
+	state_category = large_town
+	manpower=6812440
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			3841 = { naval_base = 1 }
+		}
+		owner = GNG
+		controller = GNG
+		add_core_of = GNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

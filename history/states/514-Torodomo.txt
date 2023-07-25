@@ -1,0 +1,19 @@
+state={
+	id=514
+	name="STATE_514"
+	provinces={
+		728 1019 1102 1358 1829 2028 2151 2327 2694 3351 3699 3794 4312 4316 4318 4323 4327 4333 4337 4343 7035 8119 8120 8121 8123 8124 8126 8128 8129 8130 8132 8133 8134 8135 8136 8137 
+	}
+	state_category = rural
+	manpower=1412802
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

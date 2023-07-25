@@ -1,0 +1,20 @@
+state={
+	id=596
+	name="STATE_596"
+	provinces={
+		708 1166 1790 2670 3343 3610 6266 6292 6311 
+	}
+	state_category = town
+	manpower=1120800
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = MRH
+		controller = MRH
+		add_core_of = MRH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,34 @@
+state={
+	id=230
+	name="STATE_230"
+	provinces={
+		355 1702 2687 2737 2807 5958 5970 5975 5980 5992 
+	}
+	state_category = metropolis
+	manpower=8650320
+	history={
+		victory_points = {
+			2737 25
+		}
+		victory_points = {
+			5975 5
+		}
+		victory_points = {
+			1702 5
+		}
+		victory_points = {
+			5980 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			2737 = { naval_base = 3 }
+		}
+		owner = CRB
+		controller = CRB
+		add_core_of = CRB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

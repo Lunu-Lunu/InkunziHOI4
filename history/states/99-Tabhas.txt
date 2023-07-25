@@ -1,0 +1,28 @@
+
+state={
+	id=99
+	name="STATE_99"
+
+	history={
+		victory_points = {
+			1947 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		owner = GLL
+		controller = GLL
+		add_core_of = GLL
+
+	}
+
+	provinces={
+		132 304 561 732 1193 1466 1525 1947 2398 2789 2923 3144 3207 3237 3240 3396 3709 3897 6012 6014 6026 6029 6035 7095 7115 
+	}
+	manpower=3175051
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

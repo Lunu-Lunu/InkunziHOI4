@@ -1,0 +1,21 @@
+
+state={
+	id=486
+	name="STATE_486"
+	provinces={
+		190 262 1316 1736 2682 3085 3158 3589 4857 4891 4892 4909 4915 4931 4945 4978 
+	}
+	state_category = rural
+	manpower=435840
+	history={
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

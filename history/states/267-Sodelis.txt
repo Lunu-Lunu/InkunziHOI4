@@ -1,0 +1,20 @@
+state={
+	id=267
+	name="STATE_267"
+	provinces={
+		627 792 2545 2842 3714 3718 5242 5266 5314 
+	}
+	state_category = town
+	manpower=1131600
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = OCL
+		controller = OCL
+		add_core_of = OCL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

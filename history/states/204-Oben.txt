@@ -1,0 +1,26 @@
+state={
+	id=204
+	name="STATE_204"
+	provinces={
+		328 964 2149 2150 2192 3548 4225 5183 5211 5245 5247 5275 5292 5307 
+	}
+	state_category = city
+	manpower=4393750
+	history={
+		victory_points = {
+			5292 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			5247 = { naval_base = 1 }
+		}
+		owner = OMC
+		controller = OMC
+		add_core_of = OMC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=278
+	name="STATE_278"
+	provinces={
+		440 669 1002 1082 1207 1826 1870 2663 2724 2878 3037 3475 4473 4480 4539 4583 4592 4594 4601 4605 4614 
+	}
+	state_category = town
+	manpower=1386000
+	history={
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			4480 = { naval_base = 1 }
+		}
+		owner = TEN
+		controller = TEN
+		add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

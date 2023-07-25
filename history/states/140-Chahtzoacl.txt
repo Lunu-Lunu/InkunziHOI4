@@ -1,0 +1,27 @@
+state={
+	id=140
+	name="STATE_140"
+	provinces={
+		353 828 1951 2009 2034 2446 2709 2763 3288 3588 3595 3811 4014 6655 6661 6665 6667 6668 6673 6679 6680 6681 6693 6694 6695 6702 6706 6712 6718 6721 6722 
+	}
+	state_category = metropolis
+	manpower=11513888
+	history={
+		victory_points = {
+			2009 35
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 1
+			2009 = { naval_base = 5 }
+			6668 = { naval_base = 1 }
+		}
+		owner = CHT
+		controller = CHT
+		add_core_of = CHT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

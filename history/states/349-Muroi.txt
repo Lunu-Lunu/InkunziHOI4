@@ -1,0 +1,24 @@
+
+state={
+	id=349
+	name="STATE_349"
+	provinces={
+		487 831 1133 1840 2723 2980 3511 3837 5155 5168 5226 5317 5324 
+	}
+	state_category = large_town
+	manpower=3848640
+	history={
+		victory_points = {
+			2980 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = PLA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=421
+	name="STATE_421"
+	provinces={
+		2197 2440 2470 3222 3577 4237 4761 4795 4813 7052 
+	}
+	state_category = city
+	manpower=3604680
+	history={
+		victory_points = {
+			3222 10
+		}
+		victory_points = {
+			7052 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			3222 = { naval_base = 5 }
+		}
+		owner = KYT
+		controller = KYT
+		add_core_of = KYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

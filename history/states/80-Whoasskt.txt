@@ -1,0 +1,24 @@
+state={
+	id=80
+	name="STATE_80"
+	provinces={
+		19 463 635 933 1773 2385 3458 3566 6089 6102 6127 6134 6137 6144 6154 6159 6176 6189 
+	}
+	state_category = large_town
+	manpower=2984131
+	history={
+		victory_points = {
+			463 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			463 = { naval_base = 1 }
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

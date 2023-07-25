@@ -1,0 +1,22 @@
+
+state={
+	id=371
+	name="STATE_371"
+	provinces={
+		1544 2284 3480 3715 4933 4937 4965 8185 8186 
+	}
+	state_category = town
+	manpower=3482960
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = VES
+		controller = VES
+		add_core_of = VES
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

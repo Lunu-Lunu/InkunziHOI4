@@ -1,0 +1,28 @@
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		2199 2900 2954 3134 3950 6600 6601 6608 
+	}
+	state_category = city
+	manpower=3970640
+	history={
+		victory_points = {
+			2954 15
+		}
+		victory_points = {
+			6601 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			2954 = { naval_base = 1 }
+		}
+		owner = SLB
+		controller = SLB
+		add_core_of = SLB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=330
+	name="STATE_330"
+	provinces={
+		114 381 878 2534 3096 3692 4070 5641 5649 5671 5710 
+	}
+	state_category = city
+	manpower=4999000
+	history={
+		victory_points = {
+			3692 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			2714 = { naval_base = 3 }
+		}
+		owner = PRZ
+		controller = PRZ
+		add_core_of = PRZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

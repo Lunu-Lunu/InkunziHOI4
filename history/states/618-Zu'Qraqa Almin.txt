@@ -1,0 +1,26 @@
+state={
+	id=618
+	name="STATE_618"
+	provinces={
+		157 2040 2083 2278 2461 3398 4030 4258 6904 6923 6925 6951 6952 6968 6979 6980 7387 7396 
+	}
+	state_category = city
+	manpower=2693080
+	history={
+		victory_points = {
+			4030 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			4030 = { naval_base = 5 }
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

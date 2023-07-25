@@ -1,0 +1,24 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		86 2217 2647 3082 3634 3689 3855 5258 5375 5413 
+	}
+	state_category = city
+	manpower=4938560
+	history={
+		victory_points = {
+			3634 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		owner = OCL
+		controller = OCL
+		add_core_of = OCL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

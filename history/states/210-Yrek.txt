@@ -1,0 +1,25 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		1421 2196 2402 2706 3105 4913 4942 4943 4986 5005 5033 
+	}
+	state_category = rural
+	manpower=1326080
+	history={
+		victory_points = {
+			4942 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			4942 = { naval_base = 2 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

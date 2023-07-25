@@ -1,0 +1,21 @@
+state={
+	id=551
+	name="STATE_551"
+	provinces={
+		6010 
+	}
+	state_category = enclave
+	manpower=215000
+	history={
+		victory_points = { 6010 1 }
+		buildings={
+			infrastructure = 4
+			6010 = { naval_base = 5 }
+		}
+		owner = OZA
+		controller = OZA
+		add_core_of = OZA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

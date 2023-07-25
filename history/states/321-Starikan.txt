@@ -1,0 +1,24 @@
+state={
+	id=321
+	name="STATE_321"
+	provinces={
+		357 2313 2619 3323 5446 
+	}
+	state_category = large_town
+	manpower=2059200
+	history={
+		victory_points = {
+			357 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = SCC
+		controller = SCC
+		add_core_of = SCC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

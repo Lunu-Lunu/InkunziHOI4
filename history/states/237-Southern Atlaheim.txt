@@ -1,0 +1,24 @@
+
+state={
+	id=237
+	name="STATE_237"
+	provinces={
+		5818 5835 7169 
+	}
+	state_category = town
+	manpower=1188960
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			5835 = { naval_base = 1 }
+			7169 = { naval_base = 1 }
+		}
+		owner = TMS
+		controller = TMS
+		add_core_of = TMS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

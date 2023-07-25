@@ -1,0 +1,23 @@
+state={
+	id=225
+	name="STATE_225"
+	provinces={
+		957 2305 5858 5877 8206 
+	}
+	state_category = town
+	manpower=3165600
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			957 = { naval_base = 3 }
+		}
+		owner = ANQ
+		controller = ANQ
+		set_compliance = 60
+		add_core_of = GNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

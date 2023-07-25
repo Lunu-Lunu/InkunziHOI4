@@ -1,0 +1,26 @@
+state={
+	id=113
+	name="STATE_113"
+	provinces={
+		265 531 998 2497 2648 3296 3662 3846 4087 6696 6697 6700 6719 6724 6731 6735 6751 7367 
+	}
+	state_category = city
+	manpower=5039326
+	history={
+		victory_points = {
+			6735 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			6735 = { naval_base = 3 }
+		}
+		owner = QUA
+		controller = QUA
+		add_core_of = QUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

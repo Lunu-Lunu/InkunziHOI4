@@ -1,0 +1,31 @@
+
+state={
+	id=46
+	name="STATE_46"
+
+	history={
+		victory_points = {
+			1622 3 
+		}
+		victory_points = {
+			5495 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		owner = ESM
+		controller = ESM
+		add_core_of = ESM
+
+	}
+
+	provinces={
+		601 1622 3656 4028 5399 5495 7295 
+	}
+	manpower=2210574
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

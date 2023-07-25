@@ -1,0 +1,19 @@
+state={
+	id=572
+	name="STATE_572"
+	provinces={
+		296 502 721 1195 2045 3189 4212 6346 6366 6371 6381 6393 
+	}
+	state_category = wasteland
+	manpower=60100
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

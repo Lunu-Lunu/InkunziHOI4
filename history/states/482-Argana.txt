@@ -1,0 +1,20 @@
+state={
+	id=482
+	name="STATE_482"
+	provinces={
+		298 648 682 795 1317 1796 1937 2243 2424 3064 3810 4272 4844 4874 4885 4930 4960 
+	}
+	state_category = town
+	manpower=2967040
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

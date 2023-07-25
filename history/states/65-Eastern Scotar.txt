@@ -1,0 +1,44 @@
+
+state={
+	id=65
+	name="STATE_65"
+
+	history={
+		victory_points = {
+			5800 20 
+		}
+		victory_points = {
+			4042 3 
+		}
+		victory_points = {
+			701 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			5800 = {
+				naval_base = 3
+
+			}
+			4042 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = SCT
+		controller = SCT
+		add_core_of = SCT
+
+	}
+
+	provinces={
+		701 1076 1562 1685 2909 3156 3255 4042 4076 4219 5800 5848 5870 5885 5892 
+	}
+	manpower=7250250
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

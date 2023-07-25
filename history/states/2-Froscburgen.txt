@@ -1,0 +1,34 @@
+
+state={
+	id=2
+	name="STATE_2"
+
+	history={
+		victory_points = {
+			5085 25 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			5085 = {
+				naval_base = 6
+
+			}
+
+		}
+		owner = FRS
+		controller = FRS
+		add_core_of = FRS
+
+	}
+
+	provinces={
+		1101 2633 3212 3611 5070 5085 5123 5143 7065 7066 
+	}
+	manpower=5233039
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

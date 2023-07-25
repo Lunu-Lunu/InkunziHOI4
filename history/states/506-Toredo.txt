@@ -1,0 +1,25 @@
+state={
+	id=506
+	name="STATE_506"
+	provinces={
+		3306 3488 4459 4495 
+	}
+	state_category = city
+	manpower=3328600
+	history={
+		victory_points = {
+			3488 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 2
+			3488 = { naval_base = 5 }
+		}
+		owner = KYT
+		controller = KYT
+		add_core_of = KYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

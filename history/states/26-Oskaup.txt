@@ -1,0 +1,27 @@
+
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		1651 1876 1901 2039 3224 3889 5193 5198 5204 5227 5254 5291 7105 
+	}
+	state_category = city
+	manpower=4576080
+	history={
+		victory_points = {
+			5227 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			5227 = { naval_base = 5 }
+		}
+		owner = MLK
+		controller = MLK
+		set_compliance = 80
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

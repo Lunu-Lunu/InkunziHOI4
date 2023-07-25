@@ -1,0 +1,21 @@
+state={
+	id=382
+	name="STATE_382"
+	provinces={
+		205 478 873 1149 1518 1653 1755 1988 2360 2847 3990 4118 4134 4247 4456 4472 4489 4518 4546 
+	}
+	state_category = town
+	manpower=1219440
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4247 = { naval_base = 1 }
+		}
+		owner = KHA
+		controller = KHA
+		add_core_of = KHA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

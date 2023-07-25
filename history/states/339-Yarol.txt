@@ -1,0 +1,25 @@
+state={
+	id=339
+	name="STATE_339"
+	provinces={
+		1602 2265 2550 2614 2757 3443 3924 5650 5698 5712 5713 5715 5721 
+	}
+	state_category = city
+	manpower=4827840
+	history={
+		victory_points = {
+			2550 15
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+		}
+		owner = AUR
+		controller = AUR
+		add_core_of = AUR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

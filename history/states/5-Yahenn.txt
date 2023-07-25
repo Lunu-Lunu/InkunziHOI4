@@ -1,0 +1,25 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		owner = EDW
+		controller = EDW
+		add_core_of = EDW
+
+	}
+
+	provinces={
+		963 1131 1279 1360 1911 2713 2839 2858 3098 3357 4017 4796 4837 4880 4894 4899 4925 4949 4997 
+	}
+	manpower=398858
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

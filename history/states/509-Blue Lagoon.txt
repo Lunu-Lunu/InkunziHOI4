@@ -1,0 +1,23 @@
+state={
+	id=509
+	name="STATE_509"
+	provinces={
+		338 371 768 916 1156 1169 1960 2500 2722 3539 3729 4313 4329 4336 
+	}
+	state_category = pastoral
+	manpower=199912
+	history={
+		victory_points = {
+			1156 1
+		}
+		buildings = {
+			infrastructure = 1
+			1156 = { naval_base = 1 }
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

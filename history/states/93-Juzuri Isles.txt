@@ -1,0 +1,24 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		7307 7311 7317 7319 7324 7326 7329 7330 7331 7335 7337 7338 7340 7341 7342 7344 7346 7347 7348 7351 7356 7357 7358 7359 7360 7361 7362 
+	}
+	state_category = tiny_island
+	manpower=399980
+	history={
+		buildings = {
+			infrastructure = 2
+			7319 = { naval_base = 1 }
+			7326 = { naval_base = 1 }
+			7342 = { naval_base = 1 }
+			7348 = { naval_base = 1 }
+			7357 = { naval_base = 1 }
+		}
+		owner = JUZ
+		controller = JUZ
+		add_core_of = JUZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

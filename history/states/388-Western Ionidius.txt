@@ -1,0 +1,19 @@
+state={
+	id=388
+	name="STATE_388"
+	provinces={
+		585 764 889 1001 3005 3091 3781 4751 4776 
+	}
+	state_category = rural
+	manpower=785600
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = KAA
+		controller = KAA
+		add_core_of = KAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

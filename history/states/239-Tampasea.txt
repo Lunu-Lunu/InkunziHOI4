@@ -1,0 +1,35 @@
+
+state={
+	id=239
+	name="STATE_239"
+	provinces={
+		3989 7126 7130 7134 7140 7142 7143 7145 7147 7150 7152 7153 7158 7159 7160 7161 7163 7164 7165 7166 7167 7168 7171 7173 7174 7175 7176 
+	}
+	state_category = city
+	manpower=3420160
+	history={
+		victory_points = {
+			3989 10
+		}
+		victory_points = {
+			7150 1
+		}
+		victory_points = {
+			7174 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			3989 = { naval_base = 5 }
+			7150 = { naval_base = 1 }
+			7140 = { naval_base = 1 }
+		}
+		owner = TMS
+		controller = TMS
+		add_core_of = TMS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

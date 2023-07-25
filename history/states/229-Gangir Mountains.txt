@@ -1,0 +1,19 @@
+state={
+	id=229
+	name="STATE_229"
+	provinces={
+		3063 
+	}
+	state_category = pastoral
+	manpower=202840
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = GNG
+		controller = GNG
+		add_core_of = GNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

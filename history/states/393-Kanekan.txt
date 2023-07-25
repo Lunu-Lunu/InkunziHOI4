@@ -1,0 +1,21 @@
+state={
+	id=393
+	name="STATE_393"
+	provinces={
+		405 415 1224 3576 3978 4377 4383 4392 4393 4409 
+	}
+	state_category = rural
+	manpower=1065400
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			3476 = { naval_base = 1 }
+		}
+		owner = KAN
+		controller = KAN
+		add_core_of = KAN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

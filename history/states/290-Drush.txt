@@ -1,0 +1,21 @@
+state={
+	id=290
+	name="STATE_290"
+	provinces={
+		1597 5574 5609 
+	}
+	state_category = town
+	manpower=1416800
+	history={
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			5574 = { naval_base = 3 }
+		}
+		owner = STR
+		controller = STR
+		add_core_of = STR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

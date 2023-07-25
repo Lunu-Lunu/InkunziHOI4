@@ -1,0 +1,24 @@
+state={
+	id=408
+	name="STATE_408"
+	provinces={
+		1398 1727 2318 2454 2537 3117 3233 3556 4551 4562 4590 4599 4633 4645 
+	}
+	state_category = large_town
+	manpower=2595320
+	history={
+		victory_points = {
+			4633 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = BYT
+		controller = BYT
+		add_core_of = BYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

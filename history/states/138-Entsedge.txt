@@ -1,0 +1,19 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		3 189 489 575 631 720 905 996 1202 1397 1418 1485 1582 1664 1686 1917 2222 2392 2406 2760 2790 2835 3043 3439 3601 3666 3704 3898 6755 6757 6763 6766 6770 6775 6780 6784 6786 6787 6789 6790 6791 6795 6797 6800 
+	}
+	state_category = rural
+	manpower=602251
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

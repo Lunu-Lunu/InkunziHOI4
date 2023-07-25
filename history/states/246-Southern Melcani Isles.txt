@@ -1,0 +1,21 @@
+state={
+	id=246
+	name="STATE_246"
+	provinces={
+		7179 7185 7186 7189 7193 7195 
+	}
+	state_category = rural
+	manpower=1038200
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			7189 = { naval_base = 1 }
+		}
+		owner = KRN
+		controller = KRN
+		add_core_of = KRN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

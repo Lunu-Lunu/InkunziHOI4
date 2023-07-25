@@ -1,0 +1,28 @@
+state={
+	id=468
+	name="STATE_468"
+	provinces={
+		333 481 534 808 2173 2756 3267 3300 3614 3964 4812 4828 4848 4854 4866 4879 4881 4902 
+	}
+	state_category = city
+	manpower=2786000
+	history={
+		victory_points = {
+			808 10
+		}
+		victory_points = {
+			4879 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			808 = { naval_base = 3 }
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		354 1274 1476 2280 2290 2946 3302 3579 6511 6528 6532 6543 6548 6554 
+	}
+	state_category = large_town
+	manpower=2775526
+	history={
+		victory_points = {
+			3579 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			3579 = { naval_base = 1 }
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

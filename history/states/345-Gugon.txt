@@ -1,0 +1,24 @@
+state={
+	id=345
+	name="STATE_345"
+	provinces={
+		153 710 2166 4099 5461 5462 
+	}
+	state_category = town
+	manpower=1923840
+	history={
+		victory_points = {
+			2166 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = PLA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

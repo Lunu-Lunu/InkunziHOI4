@@ -1,0 +1,32 @@
+state={
+	id=165
+	name="STATE_165"
+	provinces={
+		2450 3407 6027 6041 
+	}
+	state_category = metropolis
+	manpower=6662434
+	history={
+		victory_points = {
+			3407 20
+		}
+		victory_points = {
+			2450 10
+		}
+		victory_points = {
+			6027 3
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			3407 = { naval_base = 10 }
+		}
+		owner = CNC
+		controller = CNC
+		add_core_of = CNC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

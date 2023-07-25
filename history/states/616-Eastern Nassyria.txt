@@ -1,0 +1,20 @@
+state={
+	id=616
+	name="STATE_616"
+	provinces={
+		1094 1553 1999 2856 3028 3348 6871 6872 6875 6883 6896 6903 6909 6928 6941 
+	}
+	state_category = rural
+	manpower=524200
+	history={
+		buildings = {
+			infrastructure = 3
+			6871 = { naval_base = 1 }
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=98
+	name="STATE_98"
+
+	history={
+		victory_points = {
+			6066 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		owner = HSH
+		controller = HSH
+		add_core_of = HSH
+
+	}
+
+	provinces={
+		224 871 1118 1501 1805 1892 1945 2014 2981 4283 6052 6056 6057 6061 6066 6075 6081 6088 6128 7287 
+	}
+	manpower=1799094
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

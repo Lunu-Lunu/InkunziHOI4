@@ -1,0 +1,25 @@
+state={
+	id=95
+	name="STATE_95"
+	provinces={
+		209 1234 1341 2002 2106 2799 3438 6021 6025 6033 6038 6046 6050 6053 
+	}
+	state_category = city
+	manpower=3185128
+	history={
+		victory_points = {
+			6021 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			6021 = { naval_base = 1 }
+		}
+		owner = HSH
+		controller = HSH
+		add_core_of = HSH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

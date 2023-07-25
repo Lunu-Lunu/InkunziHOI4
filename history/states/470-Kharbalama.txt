@@ -1,0 +1,24 @@
+state={
+	id=470
+	name="STATE_470"
+	provinces={
+		299 482 1718 1915 2613 2618 2881 2959 3518 4006 4720 4794 4823 4824 4840 
+	}
+	state_category = large_town
+	manpower=1773720
+	history={
+		victory_points = {
+			482 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

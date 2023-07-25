@@ -1,0 +1,21 @@
+state={
+	id=612
+	name="STATE_612"
+	provinces={
+		1077 1199 2158 4195 4238 6982 6989 6991 6996 7002 8224 
+	}
+	state_category = town
+	manpower=1829200
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

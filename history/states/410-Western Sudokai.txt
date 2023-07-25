@@ -1,0 +1,19 @@
+state={
+	id=410
+	name="STATE_410"
+	provinces={
+		1512 1621 1902 4625 4646 4667 4694 
+	}
+	state_category = pastoral
+	manpower=192640
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = BYT
+		controller = BYT
+		add_core_of = BYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

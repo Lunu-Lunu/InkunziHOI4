@@ -1,0 +1,19 @@
+state={
+	id=81
+	name="STATE_81"
+	provinces={
+		1010 2705 3071 3884 4276 6141 6158 6168 6169 6185 
+	}
+	state_category = rural
+	manpower=403937
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=186
+	name="STATE_186"
+	provinces={
+		22 47 50 349 865 1046 1247 1663 2059 3049 3467 4334 4346 4358 4370 4371 4374 4387 4429 
+	}
+	state_category = pastoral
+	manpower=409360
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

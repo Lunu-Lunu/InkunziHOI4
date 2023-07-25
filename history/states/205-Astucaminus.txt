@@ -1,0 +1,28 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		1605 1635 2997 3048 3347 3479 5152 5176 5180 5220 5223 5296 5318 
+	}
+	state_category = city
+	manpower=4752500
+	history={
+		victory_points = {
+			5296 10
+		}
+		victory_points = {
+			3048 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			3048 = { naval_base = 3 }
+		}
+		owner = OMC
+		controller = OMC
+		add_core_of = OMC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

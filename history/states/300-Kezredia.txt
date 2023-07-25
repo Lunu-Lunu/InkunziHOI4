@@ -1,0 +1,24 @@
+state={
+	id=300
+	name="STATE_300"
+	provinces={
+		124 857 1018 1212 1386 1965 2180 2404 2510 3394 3565 3736 3895 5302 5331 5349 5390 5414 5436 5456 
+	}
+	state_category = large_town
+	manpower=5404880
+	history={
+		victory_points = {
+			5331 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = SUV
+		controller = SUV
+		add_core_of = SUV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

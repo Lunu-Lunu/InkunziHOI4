@@ -1,0 +1,26 @@
+state={
+	id=62
+	name="STATE_62"
+	provinces={
+		5888 5898 5918 
+	}
+	state_category = large_city
+	manpower=3206253
+	history={
+		victory_points = {
+			5898 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			5898 = { naval_base = 5 }
+		}
+		owner = DMR
+		controller = DMR
+		add_core_of = DMR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

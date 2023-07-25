@@ -1,0 +1,19 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		815 1812 2152 3042 3352 3628 3851 3961 6017 6048 6062 
+	}
+	state_category = rural
+	manpower=1793984
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = NOZ
+		controller = NOZ
+		add_core_of = NOZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=543
+	name="STATE_543"
+	provinces={
+		127 716 
+	}
+	state_category = large_town
+	manpower=1587840
+	history={
+		victory_points = {
+			716 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			716 = { naval_base = 3 }
+		}
+		owner = KRL
+		controller = KRL
+		set_compliance = 80
+		add_core_of = OOI
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

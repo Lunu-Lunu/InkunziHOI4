@@ -1,0 +1,23 @@
+state={
+	id=121
+	name="STATE_121"
+	provinces={
+		330 1259 1325 1434 1570 1896 3180 3938 4273 6614 6640 
+	}
+	state_category = town
+	manpower=1805936
+	history={
+		victory_points = {
+			1434 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

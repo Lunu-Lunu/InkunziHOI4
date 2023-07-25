@@ -1,0 +1,23 @@
+state={
+	id=540
+	name="STATE_540"
+	provinces={
+		274 311 490 620 1179 1220 2587 3256 5955 5968 5997 6015 6023 
+	}
+	state_category = large_town
+	manpower=1220640
+	history={
+		victory_points = {
+			311 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = MYC
+		controller = MYC
+		add_core_of = MYC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

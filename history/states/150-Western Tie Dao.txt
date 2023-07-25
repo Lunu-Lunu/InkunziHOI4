@@ -1,0 +1,26 @@
+state={
+	id=150
+	name="STATE_150"
+	provinces={
+		2745 4135 6592 6603 
+	}
+	state_category = city
+	manpower=2221352
+	history={
+		victory_points = {
+			2745 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			2745 = { naval_base = 3 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = JIN
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

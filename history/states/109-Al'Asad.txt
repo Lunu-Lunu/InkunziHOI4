@@ -1,0 +1,25 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		25 1277 2734 2793 3640 6564 
+	}
+	state_category = city
+	manpower=4400000
+	history={
+		victory_points = {
+			2793 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			2793 = { naval_base = 3 }
+		}
+		owner = ALS
+		controller = ALS
+		add_core_of = ALS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

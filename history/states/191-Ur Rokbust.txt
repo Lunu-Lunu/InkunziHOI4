@@ -1,0 +1,26 @@
+state={
+	id=191
+	name="STATE_191"
+	provinces={
+		2130 4897 
+	}
+	state_category = large_town
+	manpower=1317360
+	history={
+		victory_points = {
+			4897 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			4897 = { naval_base = 5 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

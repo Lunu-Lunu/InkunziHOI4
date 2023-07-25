@@ -1,0 +1,26 @@
+
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		43 260 978 1026 1040 1044 1145 1295 1740 2132 2194 2228 2874 3445 3792 3958 4285 4521 4534 4553 4565 4577 4639 4683 7042 
+	}
+	state_category = city
+	manpower=3568200
+	history={
+		victory_points = {
+			2132 20
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+			2132 = { naval_base = 8 }
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=133
+	name="STATE_133"
+	provinces={
+		1357 1509 1688 2054 2274 2765 3193 6835 6838 6862 6874 6879 6884 6887 6888 6892 6895 6900 6902 6906 6910 7395 
+	}
+	state_category = large_town
+	manpower=3967964
+	history={
+		victory_points = {
+			6888 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			6888 = { naval_base = 3 }
+			2274 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

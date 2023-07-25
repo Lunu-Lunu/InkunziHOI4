@@ -1,0 +1,20 @@
+state={
+	id=414
+	name="STATE_414"
+	provinces={
+		1250 1278 2434 2728 2969 3139 3426 3562 3667 4426 4439 4457 4471 4476 4491 4502 4533 
+	}
+	state_category = rural
+	manpower=550920
+	history={
+		buildings = {
+			infrastructure = 2
+			4457 = { naval_base = 1 }
+		}
+		owner = BYT
+		controller = BYT
+		add_core_of = BYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=566
+	name="STATE_566"
+	provinces={
+		322 539 678 948 1027 1158 2107 2296 2328 2411 2607 2658 2688 3147 3155 4071 4231 6267 6298 6303 6320 6321 6327 6359 6378 6396 8211 8212 8214 
+	}
+	state_category = city
+	manpower=3512960
+	history={
+		victory_points = {
+			6327 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

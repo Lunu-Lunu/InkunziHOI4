@@ -1,0 +1,7 @@
+# Adnuin
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 125 95 60 }
+color_ui = rgb { 145 115 80 }

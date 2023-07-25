@@ -1,0 +1,26 @@
+state={
+	id=253
+	name="STATE_253"
+	provinces={
+		2078 
+	}
+	state_category = large_town
+	manpower=2142800
+	history={
+		victory_points = {
+			2078 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			2078 = { naval_base = 1 }
+		}
+		owner = ADN
+		controller = ADN
+		add_core_of = ADN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

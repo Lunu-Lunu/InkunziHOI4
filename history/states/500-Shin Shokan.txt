@@ -1,0 +1,25 @@
+state={
+	id=500
+	name="STATE_500"
+	provinces={
+		4103 4306 4309 
+	}
+	state_category = city
+	manpower=4126800
+	history={
+		victory_points = {
+			4306 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4306 = { naval_base = 3 }
+		}
+		owner = SHS
+		controller = SHS
+		add_core_of = SHS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

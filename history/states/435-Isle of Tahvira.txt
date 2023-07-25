@@ -1,0 +1,20 @@
+state={
+	id=435
+	name="STATE_435"
+	provinces={
+		7229 
+	}
+	state_category = small_island
+	manpower=565440
+	history={
+		buildings = {
+			infrastructure = 2
+			7229 = { naval_base = 1 }
+		}
+		owner = MLK
+		controller = MLK
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

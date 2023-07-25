@@ -1,0 +1,30 @@
+state={
+	id=147
+	name="STATE_147"
+	provinces={
+		151 229 2592 6534 6538 6557 7332 7333 7334 7336 
+	}
+	state_category = city
+	manpower=2823128
+	history={
+		victory_points = {
+			229 10
+		}
+		victory_points = {
+			6538 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			229 = { naval_base = 3 }
+			6838 = { naval_base = 1 }
+		}
+		owner = JIN
+		controller = JIN
+		add_core_of = JIN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

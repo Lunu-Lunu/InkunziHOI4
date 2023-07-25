@@ -1,0 +1,32 @@
+state={
+	id=322
+	name="STATE_322"
+	provinces={
+		517 1859 4024 5629 5659 5692 5696 
+	}
+	state_category = metropolis
+	manpower=10540800
+	history={
+		victory_points = {
+			517 25
+		}
+		victory_points = {
+			5696 20
+		}
+		victory_points = {
+			4024 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+			dockyard = 1
+			517 = { naval_base = 5 }
+		}
+		owner = CNT
+		controller = CNT
+		add_core_of = CNT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

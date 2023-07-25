@@ -1,0 +1,22 @@
+
+state={
+	id=242
+	name="STATE_242"
+	provinces={
+		7080 7084 7085 7086 7091 7092 7093 7094 7096 7097 7098 7099 7100 7101 
+	}
+	state_category = town
+	manpower=1651200
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+		owner = MAA
+		controller = MAA
+		add_core_of = MAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

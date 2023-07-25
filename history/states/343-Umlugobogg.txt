@@ -1,0 +1,30 @@
+state={
+	id=343
+	name="STATE_343"
+	provinces={
+		264 696 1205 3472 5457 5491 5520 5529 5536 
+	}
+	state_category = large_city
+	manpower=9468000
+	history={
+		victory_points = {
+			5457 25
+		}
+		victory_points = {
+			1205 10
+		}
+		victory_points = {
+			5529 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+		owner = BOG
+		controller = BOG
+		add_core_of = BOG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

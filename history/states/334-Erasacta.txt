@@ -1,0 +1,24 @@
+state={
+	id=334
+	name="STATE_334"
+	provinces={
+		1495 2373 2766 3197 3215 3301 3420 5465 5475 5497 5507 5558 
+	}
+	state_category = city
+	manpower=6715680
+	history={
+		victory_points = {
+			1495 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		owner = ERS
+		controller = ERS
+		add_core_of = ERS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

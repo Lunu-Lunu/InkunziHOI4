@@ -1,0 +1,19 @@
+state={
+	id=397
+	name="STATE_397"
+	provinces={
+		228 422 692 1237 2407 2744 2746 2772 2939 3371 3778 3807 3966 4111 4188 4505 4531 4561 4564 4576 
+	}
+	state_category = pastoral
+	manpower=428880
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = SHO
+		controller = SHO
+		add_core_of = SHO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

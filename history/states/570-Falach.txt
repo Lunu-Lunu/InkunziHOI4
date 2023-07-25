@@ -1,0 +1,25 @@
+state={
+	id=570
+	name="STATE_570"
+	provinces={
+		210 735 943 1005 1256 1844 1891 1958 2087 2248 2403 2852 2863 2949 6391 6428 6439 6459 6465 6476 6479 6497 6505 6520 6521 6539 6540 
+	}
+	state_category = large_town
+	manpower=1558400
+	history={
+		victory_points = {
+			6540 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			6540 = { naval_base = 3 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

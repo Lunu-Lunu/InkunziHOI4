@@ -1,0 +1,23 @@
+state={
+	id=579
+	name="STATE_579"
+	provinces={
+		2494 
+	}
+	state_category = enclave
+	manpower=376000
+	history={
+		victory_points = {
+			2494 1
+		}
+		buildings = {
+			infrastructure = 3
+			2494 = { naval_base = 3 }
+		}
+		owner = MLK
+		controller = MLK
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

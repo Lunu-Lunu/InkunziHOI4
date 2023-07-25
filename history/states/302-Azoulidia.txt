@@ -1,0 +1,27 @@
+state={
+	id=302
+	name="STATE_302"
+	provinces={
+		291 939 1438 1528 2399 2889 5249 5282 5288 5290 5325 
+	}
+	state_category = large_city
+	manpower=5426000
+	history={
+		victory_points = {
+			1438 25
+		}
+		victory_points = {
+			5325 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		owner = SUV
+		controller = SUV
+		add_core_of = SUV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

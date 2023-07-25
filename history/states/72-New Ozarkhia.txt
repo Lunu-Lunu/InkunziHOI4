@@ -1,0 +1,26 @@
+state={
+	id=72
+	name="STATE_72"
+	provinces={
+		3470 3498 3752 4201 5957 
+	}
+	state_category = city
+	manpower=3817480
+	history={
+		victory_points = {
+			3498 30
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			3498 = { naval_base = 5 }
+		}
+		owner = OZA
+		controller = OZA
+		set_compliance = 80
+		add_core_of = NOZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

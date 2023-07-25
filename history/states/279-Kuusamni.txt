@@ -1,0 +1,25 @@
+state={
+	id=279
+	name="STATE_279"
+	provinces={
+		122 475 2162 2589 4105 4376 4448 
+	}
+	state_category = town
+	manpower=1198560
+	history={
+		victory_points = {
+			4448 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			dockyard = 1
+			4448 = { naval_base = 3 }
+		}
+		owner = TEN
+		controller = TEN
+		add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

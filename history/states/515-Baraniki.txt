@@ -1,0 +1,19 @@
+state={
+	id=515
+	name="STATE_515"
+	provinces={
+		102 324 393 541 752 810 958 1092 1336 1441 1465 1855 1938 2195 2999 3150 3710 3801 4350 4361 4364 4368 4391 4399 8138 8139 8140 8141 8142 8144 8145 8146 8147 8148 8149 8151 8152 8153 8154 8155 8156 8158 8159 8161 8162 8163 8164 8165 8168 8171 8172 8173 8174 
+	}
+	state_category = rural
+	manpower=2211951
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

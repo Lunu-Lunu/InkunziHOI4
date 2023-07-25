@@ -1,0 +1,24 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		413 1039 1203 1704 1839 2368 2488 2753 3130 3386 3670 3896 3933 4120 5515 5516 5579 5616 5654 5668 
+	}
+	state_category = metropolis
+	manpower=8960960
+	history={
+		victory_points = {
+			5579 35
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		owner = ZAD
+		controller = ZAD
+		add_core_of = ZAD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

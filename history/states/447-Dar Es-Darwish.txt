@@ -1,0 +1,23 @@
+state={
+	id=447
+	name="STATE_447"
+	provinces={
+		420 507 1065 1327 2099 2677 2843 2951 2978 3118 3125 3560 3957 5501 5513 5521 5535 5555 5565 5594 5633 
+	}
+	state_category = town
+	manpower=512500
+	history={
+		victory_points = {
+			5565 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = QAY
+		controller = QAY
+		add_core_of = QAY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=154
+	name="STATE_154"
+	provinces={
+		160 644 741 761 1240 1514 2809 3390 3405 4060 6297 6334 6368 6432 
+	}
+	state_category = large_town
+	manpower=3405436
+	history={
+		victory_points = {
+			6368 10
+		}
+		victory_points = {
+			761 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			6368 = { naval_base = 3 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

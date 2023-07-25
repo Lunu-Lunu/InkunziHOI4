@@ -1,0 +1,30 @@
+
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		2431 2796 2913 3748 7050 
+	}
+	state_category = city
+	manpower=5042329
+	history={
+		victory_points = {
+			2431 15
+		}
+		victory_points = {
+			2913 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			2431 = { naval_base = 2 }
+		}
+		owner = MLS
+		controller = MLS
+		add_core_of = MLS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

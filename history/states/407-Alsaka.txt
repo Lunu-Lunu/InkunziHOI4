@@ -1,0 +1,20 @@
+
+state={
+	id=407
+	name="STATE_407"
+	provinces={
+		449 675 1830 1990 2557 3278 3283 3295 3408 3664 3732 4227 4259 4435 4452 4455 4469 4499 
+	}
+	state_category = rural
+	manpower=589800
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = BYT
+		controller = BYT
+		add_core_of = BYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

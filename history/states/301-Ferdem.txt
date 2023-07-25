@@ -1,0 +1,24 @@
+state={
+	id=301
+	name="STATE_301"
+	provinces={
+		1248 2191 2468 4083 5388 
+	}
+	state_category = town
+	manpower=2141050
+	history={
+		victory_points = {
+			5388 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = SUV
+		controller = SUV
+		add_core_of = SUV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,7 @@
+# Xuaze
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 245 255 165 }
+color_ui = rgb { 255 255 185 }

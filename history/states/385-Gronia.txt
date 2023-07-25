@@ -1,0 +1,21 @@
+state={
+	id=385
+	name="STATE_385"
+	provinces={
+		356 427 1078 1106 1190 2091 2095 2645 2696 3110 3286 3547 3698 4765 4806 4839 4871 4921 8184 
+	}
+	state_category = town
+	manpower=1483720
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = KAA
+		controller = KAA
+		add_core_of = KAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

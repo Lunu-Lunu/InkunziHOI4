@@ -1,0 +1,25 @@
+state={
+	id=220
+	name="STATE_220"
+	provinces={
+		423 
+	}
+	state_category = town
+	manpower=1088000
+	history={
+		victory_points = {
+			423 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			423 = { naval_base = 2 }
+		}
+		owner = OMC
+		controller = OMC
+		add_core_of = OMC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

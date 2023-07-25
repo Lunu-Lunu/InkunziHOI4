@@ -1,0 +1,19 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		104 913 968 1028 1534 2159 2326 2347 2370 2412 2579 2580 2991 3393 3397 3513 3542 6384 6392 6412 6414 6433 6440 6447 6449 6454 6455 6480 6493 6502 6508 6515 6527 6529 6533 6549 
+	}
+	state_category = rural
+	manpower=401025
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

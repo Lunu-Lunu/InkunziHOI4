@@ -1,0 +1,19 @@
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		44 1787 2108 2511 3599 4189 5849 5855 5874 5876 
+	}
+	state_category = rural
+	manpower=805289
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = ELY
+		controller = ELY
+		add_core_of = ELY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

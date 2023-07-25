@@ -1,0 +1,31 @@
+
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		273 876 969 1217 2144 3054 3491 4128 5433 5472 5490 5503 5522 5543 8195 8197 
+	}
+	state_category = large_city
+	manpower=4803620
+	history={
+		victory_points = {
+			969 20
+		}
+		victory_points = {
+			876 1
+		}
+		victory_points = {
+			2144 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+		owner = ESM
+		controller = ESM
+		add_core_of = ESM
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		734 885 1885 2260 3095 3231 3364 3529 6275 6294 6305 6315 6316 6319 6328 6330 6345 
+	}
+	state_category = rural
+	manpower=990121
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

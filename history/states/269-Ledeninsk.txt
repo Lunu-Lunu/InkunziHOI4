@@ -1,0 +1,23 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		120 191 313 554 835 1507 1956 2742 3952 4883 4914 4954 4958 4984 4988 5003 5021 5058 5099 
+	}
+	state_category = large_town
+	manpower=3538040
+	history={
+		victory_points = {
+			313 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		owner = TEN
+		controller = TEN
+		add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

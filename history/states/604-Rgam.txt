@@ -1,0 +1,25 @@
+state={
+	id=604
+	name="STATE_604"
+	provinces={
+		140 528 657 1009 2449 2583 2660 2791 3819 4149 6946 6956 6962 6967 6972 6973 6976 6983 6986 6993 
+	}
+	state_category = city
+	manpower=3096600
+	history={
+		victory_points = {
+			2791 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

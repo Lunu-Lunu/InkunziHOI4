@@ -1,0 +1,7 @@
+# Na Crun
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 77 59 5 }
+color_ui = rgb { 97 79 25 }

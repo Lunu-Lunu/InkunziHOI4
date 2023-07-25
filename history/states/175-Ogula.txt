@@ -1,0 +1,27 @@
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		79 845 921 1639 2093 2851 3045 4046 6441 
+	}
+	state_category = city
+	manpower=4218437
+	history={
+		victory_points = {
+			3045 20
+		}
+		victory_points = {
+			1639 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = KNK
+		controller = KNK
+		add_core_of = KNK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		903 1420 3680 5618 5646 
+	}
+	state_category = large_town
+	manpower=3720960
+	history={
+		victory_points = {
+			903 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			903 = { naval_base = 3 }
+		}
+		owner = ZAD
+		controller = ZAD
+		add_core_of = ZAD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

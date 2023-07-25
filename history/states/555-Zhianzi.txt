@@ -1,0 +1,24 @@
+state={
+	id=555
+	name="STATE_555"
+	provinces={
+		175 222 318 552 612 1258 1598 2426 2575 3136 3507 6051 6058 6063 
+	}
+	state_category = large_town
+	manpower=1274880
+	history={
+		victory_points = {
+			175 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		466 1435 1606 5393 5425 5429 
+	}
+	state_category = large_city
+	manpower=5048040
+	history={
+		victory_points = {
+			1606 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		owner = VAL
+		controller = VAL
+		add_core_of = VAL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

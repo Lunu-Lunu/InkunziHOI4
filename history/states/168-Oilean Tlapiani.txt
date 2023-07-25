@@ -1,0 +1,26 @@
+state={
+	id=168
+	name="STATE_168"
+	provinces={
+		651 3238 3468 4047 6682 6710 6713 7368 
+	}
+	state_category = large_town
+	manpower=2068000
+	history={
+		victory_points = {
+			6682 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			6682 = { naval_base = 3 }
+		}
+		owner = ZUN
+		controller = ZUN
+		set_compliance = 80
+		add_core_of = CHT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

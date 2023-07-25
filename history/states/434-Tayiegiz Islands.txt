@@ -1,0 +1,23 @@
+state={
+	id=434
+	name="STATE_434"
+	provinces={
+		7214 7216 7217 7220 7223 7226 7227 7228 7231 7232 7233 7237 7238 7239 7241 7242 7243 7244 7245 7246 7247 7250 7253 7255 7256 7257 7258 7259 7260 7261 
+	}
+	state_category = small_island
+	manpower=1670080
+	history={
+		victory_points = {
+			7245 1
+		}
+		buildings = {
+			infrastructure = 3
+			7245 = { naval_base = 3 }
+		}
+		owner = MLK
+		controller = MLK
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

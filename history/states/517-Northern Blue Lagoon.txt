@@ -1,0 +1,19 @@
+state={
+	id=517
+	name="STATE_517"
+	provinces={
+		362 363 457 491 639 706 1147 1461 1583 1818 1842 2046 2289 2427 2513 2527 2928 2977 3119 3263 3280 3555 3850 4290 4294 4298 4300 4301 4305 7026 7028 7029 
+	}
+	state_category = pastoral
+	manpower=402640
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

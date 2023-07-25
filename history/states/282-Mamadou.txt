@@ -1,0 +1,26 @@
+state={
+	id=282
+	name="STATE_282"
+	provinces={
+		1331 2122 2225 2302 2506 2942 3362 3526 3843 4019 4464 4481 4503 4510 4522 4528 4530 4536 4540 4543 4554 
+	}
+	state_category = large_town
+	manpower=2973600
+	history={
+		victory_points = {
+			4536 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			4481 = { naval_base = 1 }
+		}
+		owner = TEN
+		controller = TEN
+		set_compliance = 80
+		#add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

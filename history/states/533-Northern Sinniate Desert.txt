@@ -1,0 +1,19 @@
+state={
+	id=533
+	name="STATE_533"
+	provinces={
+		89 204 378 391 501 699 890 2637 4116 5867 5920 
+	}
+	state_category = pastoral
+	manpower=27592
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = MYC
+		controller = MYC
+		add_core_of = MYC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

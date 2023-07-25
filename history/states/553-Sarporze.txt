@@ -1,0 +1,27 @@
+
+state={
+	id=553
+	name="STATE_553"
+	provinces={
+		516 1047 1143 1640 2311 2384 6020 6028 6036 6040 6042 6047 6055 7088 7090 
+	}
+	state_category = city
+	manpower=3283200
+	history={
+		victory_points = {
+			6020 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			6020 = { naval_base = 5 }
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=546
+	name="STATE_546"
+	provinces={
+		1176 1491 1535 2001 2082 2715 2782 2892 3067 3500 5794 5797 5827 5844 5871 5882 7087 7089 
+	}
+	state_category = metropolis
+	manpower=10090560
+	history={
+		victory_points = {
+			7087 25
+		}
+		victory_points = {
+			5797 5
+		}
+		victory_points = {
+			2715 5
+		}
+		victory_points = {
+			1535 5
+		}
+		victory_points = {
+			1176 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			7087 = { naval_base = 5 }
+			1535 = { naval_base = 3 }
+		}
+		owner = ODA
+		controller = ODA
+		add_core_of = ODA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

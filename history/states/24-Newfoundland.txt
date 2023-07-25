@@ -1,0 +1,21 @@
+
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		7049 
+	}
+	state_category = tiny_island
+	manpower=1502
+	history={
+		buildings = {
+			infrastructure = 3
+			7049 = { naval_base = 1 }
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

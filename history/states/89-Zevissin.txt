@@ -1,0 +1,21 @@
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		213 956 1874 2367 3450 3474 3545 3655 4078 6077 6079 6108 6114 
+	}
+	state_category = town
+	manpower=1604175
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			2367 = { naval_base = 1 }
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

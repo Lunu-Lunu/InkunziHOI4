@@ -1,0 +1,26 @@
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		3660 4802 7045 
+	}
+	state_category = city
+	manpower=5157452
+	history={
+		victory_points = {
+			3660 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			3660 = { naval_base = 5 }
+		}
+		owner = EDW
+		controller = EDW
+		add_core_of = EDW
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=568
+	name="STATE_568"
+	provinces={
+		218 492 778 853 859 918 1601 1719 1994 2126 3271 3326 3520 3557 3737 6280 6344 6362 6383 6390 6435 6458 6492 8213 8217 
+	}
+	state_category = city
+	manpower=3788640
+	history={
+		victory_points = {
+			218 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			6492 = { naval_base = 1 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

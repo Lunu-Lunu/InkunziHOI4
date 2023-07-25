@@ -1,0 +1,25 @@
+state={
+	id=217
+	name="STATE_217"
+	provinces={
+		609 5373 
+	}
+	state_category = large_town
+	manpower=2368800
+	history={
+		victory_points = {
+			5373 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			5373 = { naval_base = 3 }
+		}
+		owner = OBN
+		controller = OBN
+		add_core_of = OBN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=465
+	name="STATE_465"
+	provinces={
+		401 1342 1458 2794 4007 5274 5300 5301 5312 
+	}
+	state_category = city
+	manpower=3224400
+	history={
+		victory_points = {
+			5312 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			5312 = { naval_base = 8 }
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

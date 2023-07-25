@@ -1,0 +1,34 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		victory_points = {
+			7284 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			7284 = {
+				naval_base = 3
+
+			}
+
+		}
+		owner = JUZ
+		controller = JUZ
+		add_core_of = JUZ
+
+	}
+
+	provinces={
+		7280 7284 7291 7297 7305 
+	}
+	manpower=2209348
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

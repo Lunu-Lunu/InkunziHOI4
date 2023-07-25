@@ -1,0 +1,21 @@
+state={
+	id=151
+	name="STATE_151"
+	provinces={
+		1344 2453 
+	}
+	state_category = small_island
+	manpower=202900
+	history={
+		buildings = {
+			infrastructure = 3
+			2453 = { naval_base = 3 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = JIN
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

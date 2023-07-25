@@ -1,0 +1,20 @@
+state={
+	id=403
+	name="STATE_403"
+	provinces={
+		1353 2120 2310 3205 3831 3953 4359 4363 4372 4405 4406 
+	}
+	state_category = rural
+	manpower=401181
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

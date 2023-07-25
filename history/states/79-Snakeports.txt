@@ -1,0 +1,22 @@
+state={
+	id=79
+	name="STATE_79"
+	provinces={
+		6164 6170 
+	}
+	state_category = town
+	manpower=419527
+	history={
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			6164 = { naval_base = 1 }
+			6170 = { naval_base = 1 }
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

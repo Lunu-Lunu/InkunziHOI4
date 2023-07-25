@@ -1,0 +1,22 @@
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		623 748 1167 1264 1378 1531 1867 1868 2027 2050 2487 3319 3774 3874 4250 6688 6707 6728 6733 6737 6752 6759 6767 
+	}
+	state_category = rural
+	manpower=1808088
+	history={
+		victory_points = {
+			2027 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

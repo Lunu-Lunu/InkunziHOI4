@@ -1,0 +1,19 @@
+state={
+	id=283
+	name="STATE_283"
+	provinces={
+		1033 1180 1617 1860 2097 2316 3581 3881 4484 4485 4506 4507 4509 4563 
+	}
+	state_category = pastoral
+	manpower=214000
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = TEN
+		controller = TEN
+		add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

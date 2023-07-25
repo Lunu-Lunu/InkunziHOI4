@@ -1,0 +1,53 @@
+
+ERE_zadouar = {
+	color = rgb { 100 110 50 }
+	color_ui = rgb { 120 130 70 }
+}
+BRK_zadouar = {
+	color = rgb { 100 110 50 }
+	color_ui = rgb { 120 130 70 }
+}
+HEV_tensali = {
+	color = rgb { 105 150 100 }
+	color_ui = rgb { 125 170 120 }
+}
+BRS_dyopolniki = {
+	color = rgb { 100 155 45 }
+	color_ui = rgb { 120 175 65 }
+}
+SHS_dyopolniki = {
+	color = rgb { 100 155 45 }
+	color_ui = rgb { 120 175 65 }
+}
+KDM_kido = {
+	color = rgb { 120 120 115 }
+	color_ui = rgb { 140 140 135 }
+}
+BMK_kido = {
+	color = rgb { 120 120 115 }
+	color_ui = rgb { 140 140 135 }
+}
+OPI_mycena = {
+	color = rgb { 225 210 75 }
+	color_ui = rgb { 245 230 95 }
+}
+OOI_mycena = {
+	color = rgb { 225 210 75 }
+	color_ui = rgb { 245 230 95 }
+}
+ODA_mycena = {
+	color = rgb { 225 210 75 }
+	color_ui = rgb { 245 230 95 }
+}
+HLG_mycena = {
+	color = rgb { 225 210 75 }
+	color_ui = rgb { 245 230 95 }
+}
+KRL_mycena = {
+	color = rgb { 225 210 75 }
+	color_ui = rgb { 245 230 95 }
+}
+PPR_nation = {
+	color = rgb { 180 60 55 }
+	color_ui = rgb { 200 80 75 }
+}

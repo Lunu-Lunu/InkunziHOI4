@@ -1,0 +1,19 @@
+state={
+	id=1
+	name="STATE_1"
+	manpower = 596000
+	state_category = small_island
+	history={
+		buildings = {
+			infrastructure = 3
+			1 = { naval_base = 3 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = JIN
+		set_compliance = 60
+	}
+	provinces={
+		1 
+	}
+}

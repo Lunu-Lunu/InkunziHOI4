@@ -1,0 +1,23 @@
+state={
+	id=405
+	name="STATE_405"
+	provinces={
+		232 445 1287 1643 1816 1864 2995 3334 3341 3455 4233 4570 4611 4631 
+	}
+	state_category = town
+	manpower=1708160
+	history={
+		victory_points = {
+			2995 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = BYT
+		controller = BYT
+		add_core_of = BYT
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

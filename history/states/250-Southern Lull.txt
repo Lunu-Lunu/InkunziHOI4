@@ -1,0 +1,21 @@
+
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		1159 1696 2148 2419 2865 3375 3493 3543 3725 5756 5758 5769 8205 
+	}
+	state_category = town
+	manpower=2220240
+	history={
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+		}
+		owner = ZAD
+		controller = ZAD
+		add_core_of = ZAD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

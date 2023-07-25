@@ -1,0 +1,7 @@
+# Morland
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 136 235 80 }
+color_ui = rgb { 156 255 100 }

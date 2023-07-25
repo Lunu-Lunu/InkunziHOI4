@@ -1,0 +1,26 @@
+state={
+	id=440
+	name="STATE_440"
+	provinces={
+		790 2154 3281 4023 5148 5208 5297 5327 
+	}
+	state_category = city
+	manpower=3945920
+	history={
+		victory_points = {
+			5297 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			5297 = { naval_base = 5 }
+		}
+		owner = MDR
+		controller = MDR
+		add_core_of = MDR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

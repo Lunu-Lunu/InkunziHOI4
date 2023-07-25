@@ -1,0 +1,7 @@
+# Merden
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 135 75 235 }
+color_ui = rgb { 155 95 255 }

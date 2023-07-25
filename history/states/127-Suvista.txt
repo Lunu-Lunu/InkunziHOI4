@@ -1,0 +1,33 @@
+
+state={
+	id=127
+	name="STATE_127"
+
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4284 = {
+				naval_base = 1
+
+			}
+			7372 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+
+	}
+
+	provinces={
+		1081 1292 1656 1776 2372 2509 3221 3684 3941 4251 4284 6779 6798 6802 6804 6811 6813 6820 6837 6856 6877 7372 
+	}
+	manpower=2001545
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=104
+	name="STATE_104"
+	provinces={
+		271 398 607 1481 2319 2383 2502 2849 3009 3058 3083 3717 6445 6446 6467 6470 
+	}
+	state_category = pastoral
+	manpower=198948
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

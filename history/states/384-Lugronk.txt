@@ -1,0 +1,24 @@
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		82 248 519 703 1052 2841 3456 3711 4621 4715 
+	}
+	state_category = town
+	manpower=1259280
+	history={
+		victory_points = {
+			519 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = KAA
+		controller = KAA
+		add_core_of = KAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

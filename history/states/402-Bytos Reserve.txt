@@ -1,0 +1,24 @@
+state={
+	id=402
+	name="STATE_402"
+	provinces={
+		2674 4360 
+	}
+	state_category = town
+	manpower=649560
+	history={
+		victory_points = {
+			2674 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			2674 = { naval_base = 1 }
+		}
+		owner = BRS
+		controller = BRS
+		add_core_of = BRS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

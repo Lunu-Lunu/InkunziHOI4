@@ -1,0 +1,23 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		2124 3999 5381 5401 
+	}
+	state_category = large_town
+	manpower=3486720
+	history={
+		victory_points = {
+			5401 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		owner = ERS
+		controller = ERS
+		add_core_of = ERS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

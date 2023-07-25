@@ -1,0 +1,33 @@
+
+state={
+	id=25
+	name="STATE_25"
+
+	history={
+		victory_points = {
+			2522 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			2522 = {
+				naval_base = 3
+
+			}
+
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+
+	}
+
+	provinces={
+		2522 5719 7061 7106 7110 
+	}
+	manpower=2400988
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

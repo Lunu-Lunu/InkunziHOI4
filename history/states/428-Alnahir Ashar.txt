@@ -1,0 +1,26 @@
+state={
+	id=428
+	name="STATE_428"
+	provinces={
+		295 473 542 1293 1385 3344 3885 4963 4987 4996 5008 5038 5043 5051 5084 
+	}
+	state_category = city
+	manpower=2637600
+	history={
+		victory_points = {
+			5043 15
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			5043 = { naval_base = 5 }
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=512
+	name="STATE_512"
+	provinces={
+		399 416 455 936 942 993 1125 1296 1335 1733 1758 1806 1846 2052 2439 2538 3983 3988 4299 4304 4314 4320 4321 7030 7031 
+	}
+	state_category = city
+	manpower=3870406
+	history={
+		victory_points = {
+			2439 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			2439 = { naval_base = 2 }
+			7031 = { naval_base = 1 }
+		}
+		owner = SLC
+		controller = SLC
+		add_core_of = SLC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

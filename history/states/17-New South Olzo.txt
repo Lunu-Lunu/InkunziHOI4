@@ -1,0 +1,25 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		5117 
+	}
+	state_category = large_town
+	manpower=1082500
+	history={
+		victory_points = {
+			5117 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			5117 = { naval_base = 3 }
+		}
+		owner = MLS
+		controller = MLS
+		add_core_of = MLS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		555 2364 3062 3645 4179 5868 5900 5910 
+	}
+	state_category = town
+	manpower=2393494
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = GLL
+		controller = GLL
+		add_core_of = GLL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

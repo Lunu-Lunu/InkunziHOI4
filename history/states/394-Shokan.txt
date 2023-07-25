@@ -1,0 +1,24 @@
+state={
+	id=394
+	name="STATE_394"
+	provinces={
+		1186 1383 1857 1900 2786 2917 3116 3177 4432 4441 4449 4468 4482 4496 4512 4520 4526 
+	}
+	state_category = city
+	manpower=5183040
+	history={
+		victory_points = {
+			1186 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = SHO
+		controller = SHO
+		add_core_of = SHO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

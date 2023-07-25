@@ -1,0 +1,25 @@
+state={
+	id=211
+	name="STATE_211"
+	provinces={
+		809 1034 1189 1551 1948 1981 2071 3605 4153 4762 4821 4846 4869 4873 7047 
+	}
+	state_category = town
+	manpower=2772600
+	history={
+		victory_points = {
+			4821 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			4821 = { naval_base = 3 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

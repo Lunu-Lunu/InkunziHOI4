@@ -1,0 +1,25 @@
+
+state={
+	id=383
+	name="STATE_383"
+	provinces={
+		2244 2543 2604 3122 3712 4623 4655 4680 4701 4712 4732 4750 8178 
+	}
+	state_category = large_town
+	manpower=1958040
+	history={
+		victory_points = {
+			4655 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = KAA
+		controller = KAA
+		add_core_of = KAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

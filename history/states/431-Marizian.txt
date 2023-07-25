@@ -1,0 +1,24 @@
+state={
+	id=431
+	name="STATE_431"
+	provinces={
+		3167 4267 
+	}
+	state_category = town
+	manpower=679290
+	history={
+		victory_points = {
+			4267 1
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			4267 = { naval_base = 3 }
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

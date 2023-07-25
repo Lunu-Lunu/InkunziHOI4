@@ -1,0 +1,30 @@
+
+state={
+	id=66
+	name="STATE_66"
+
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			5862 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = SCT
+		controller = SCT
+		add_core_of = SCT
+
+	}
+
+	provinces={
+		796 1154 1497 1563 1959 2400 2447 3216 3538 4180 5792 5829 5857 5862 5897 7203 
+	}
+	manpower=2382154
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

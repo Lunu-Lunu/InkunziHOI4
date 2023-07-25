@@ -1,0 +1,21 @@
+state={
+	id=132
+	name="STATE_132"
+	provinces={
+		113 243 618 1552 1687 2188 2641 3559 3797 3981 6807 6812 6823 6825 6839 6844 6857 6867 6880 6882 
+	}
+	state_category = town
+	manpower=1817835
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			618 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

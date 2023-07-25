@@ -1,0 +1,20 @@
+state={
+	id=429
+	name="STATE_429"
+	provinces={
+		185 509 777 1406 2314 3834 4263 4264 4841 4872 4893 
+	}
+	state_category = town
+	manpower=740960
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

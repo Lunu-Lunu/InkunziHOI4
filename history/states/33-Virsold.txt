@@ -1,0 +1,33 @@
+
+state={
+	id=33
+	name="STATE_33"
+
+	history={
+		victory_points = {
+			1991 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			1991 = {
+				naval_base = 2
+
+			}
+
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		590 911 1991 3157 3776 5590 5613 5636 5661 5720 7102 7104 
+	}
+	manpower=3804778
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

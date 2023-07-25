@@ -1,0 +1,24 @@
+state={
+	id=478
+	name="STATE_478"
+	provinces={
+		729 1977 2142 3980 4057 4713 4744 4748 4778 8177 8180 8181 8183 
+	}
+	state_category = city
+	manpower=2430240
+	history={
+		victory_points = {
+			4778 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

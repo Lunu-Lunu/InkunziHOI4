@@ -1,0 +1,20 @@
+state={
+	id=507
+	name="STATE_507"
+	provinces={
+		3888 
+	}
+	state_category = enclave
+	manpower=218080
+	history={
+		buildings = {
+			infrastructure = 1
+			3888 = { naval_base = 3 }
+		}
+		owner = TNU
+		controller = TNU
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

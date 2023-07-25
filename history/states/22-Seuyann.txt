@@ -1,0 +1,20 @@
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		707 1225 1895 2163 2697 3250 4132 5139 5195 5209 5218 5229 
+	}
+	state_category = rural
+	manpower=2019657
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = EDW
+		controller = EDW
+		add_core_of = EDW
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

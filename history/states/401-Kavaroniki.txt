@@ -1,0 +1,29 @@
+state={
+	id=401
+	name="STATE_401"
+	provinces={
+		799 1037 1315 1365 2128 2749 2883 4338 4341 4344 4348 4351 4352 4357 4362 4367 
+	}
+	state_category = city
+	manpower=2991066
+	history={
+		victory_points = {
+			4357 1
+		}
+		victory_points = {
+			4338 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4338 = { naval_base = 5 }
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

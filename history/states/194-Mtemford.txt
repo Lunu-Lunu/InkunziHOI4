@@ -1,0 +1,20 @@
+state={
+	id=194
+	name="STATE_194"
+	provinces={
+		57 93 543 1314 1730 1953 2501 3751 4702 4706 4856 
+	}
+	state_category = rural
+	manpower=1639360
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

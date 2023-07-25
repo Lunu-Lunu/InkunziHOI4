@@ -1,0 +1,19 @@
+state={
+	id=495
+	name="STATE_495"
+	provinces={
+		193 239 1122 1351 1540 1711 1985 2010 2236 2473 3424 3457 4027 4278 4898 4906 4917 4927 4936 4973 4979 5012 5083 5089 
+	}
+	state_category = pastoral
+	manpower=210320
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

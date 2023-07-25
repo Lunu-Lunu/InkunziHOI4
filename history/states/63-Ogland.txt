@@ -1,0 +1,25 @@
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		1910 
+	}
+	state_category = metropolis
+	manpower=4241762
+	history={
+		victory_points = {
+			1910 20
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 1
+			1910 = { naval_base = 5 }
+		}
+		owner = OGL
+		controller = OGL
+		add_core_of = OGL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=305
+	name="STATE_305"
+	provinces={
+		750 1036 1641 3632 5076 5114 5145 5146 5165 5173 5231 
+	}
+	state_category = city
+	manpower=3460480
+	history={
+		victory_points = {
+			5114 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		owner = HEV
+		controller = HEV
+		add_core_of = HEV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

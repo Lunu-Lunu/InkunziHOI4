@@ -1,0 +1,19 @@
+state={
+	id=450
+	name="STATE_450"
+	provinces={
+		80 152 186 1161 1410 1489 1681 1819 1833 2100 3154 3161 3402 4209 5614 5704 
+	}
+	state_category = rural
+	manpower=382960
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = ASH
+		controller = ASH
+		add_core_of = ASH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=622
+	name="STATE_622"
+	provinces={
+		7082 
+	}
+	state_category = city
+	manpower=2571840
+	history={
+		victory_points = {
+			7082 15
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			dockyard = 1
+			7082 = { naval_base = 2 bunker = 3 coastal_bunker = 3 }
+		}
+		owner = FCE
+		controller = FCE
+		add_core_of = FCE
+		add_core_of = STR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=531
+	name="STATE_531"
+	provinces={
+		290 359 1112 1174 1302 1538 1930 2350 3120 3431 3916 4108 5689 5716 5741 5782 5815 
+	}
+	state_category = large_town
+	manpower=1119840
+	history={
+		victory_points = {
+			1174 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			1174 = { naval_base = 3 }
+		}
+		owner = MYC
+		controller = MYC
+		add_core_of = MYC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

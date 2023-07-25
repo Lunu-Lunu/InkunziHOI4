@@ -1,0 +1,20 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		350 1771 2161 2588 2624 2797 2994 3756 6620 6626 6631 6638 6645 6654 6657 6671 6683 6685 
+	}
+	state_category = rural
+	manpower=1791972
+	history={
+		buildings = {
+			infrastructure = 3
+			2624 = { naval_base = 1 }
+		}
+		owner = QUA
+		controller = QUA
+		add_core_of = QUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

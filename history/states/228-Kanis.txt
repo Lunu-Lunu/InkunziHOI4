@@ -1,0 +1,26 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		414 3153 5967 5991 5993 
+	}
+	state_category = large_city
+	manpower=4941000
+	history={
+		victory_points = {
+			5991 30
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			5991 = { naval_base = 5 }
+		}
+		owner = GNG
+		controller = GNG
+		add_core_of = GNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

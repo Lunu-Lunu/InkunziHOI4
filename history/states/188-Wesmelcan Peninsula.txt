@@ -1,0 +1,20 @@
+state={
+	id=188
+	name="STATE_188"
+	provinces={
+		5161 
+	}
+	state_category = rural
+	manpower=416880
+	history={
+		buildings = {
+			infrastructure = 2
+			5161 = { naval_base = 1 }
+		}
+		owner = OMC
+		controller = OMC
+		add_core_of = OMC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

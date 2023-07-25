@@ -1,0 +1,25 @@
+state={
+	id=599
+	name="STATE_599"
+	provinces={
+		130 226 1783 1820 2174 2703 3723 4249 4257 6808 6810 6817 6818 6819 6829 6843 6858 6863 6868 
+	}
+	state_category = large_town
+	manpower=2265560
+	history={
+		victory_points = {
+			6817 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			6817 = { naval_base = 5 }
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

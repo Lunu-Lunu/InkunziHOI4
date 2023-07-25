@@ -1,0 +1,20 @@
+state={
+	id=347
+	name="STATE_347"
+	provinces={
+		310 342 774 1980 2882 3084 3399 3691 4999 5010 5015 5054 5068 5096 
+	}
+	state_category = rural
+	manpower=1297440
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = PLA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

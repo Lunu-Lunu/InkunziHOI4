@@ -1,0 +1,23 @@
+state={
+	id=222
+	name="STATE_222"
+	provinces={
+		1674 2826 2945 5599 5621 
+	}
+	state_category = town
+	manpower=1970280
+	history={
+		victory_points = {
+			5599 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = SRB
+		controller = SRB
+		add_core_of = SRB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

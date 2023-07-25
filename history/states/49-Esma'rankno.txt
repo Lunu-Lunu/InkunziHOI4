@@ -1,0 +1,22 @@
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		3094 3367 5417 5458 5473 
+	}
+	state_category = town
+	manpower=1203531
+	history={
+		victory_points = {
+			3367 3
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		owner = ESM
+		controller = ESM
+		add_core_of = ESM
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

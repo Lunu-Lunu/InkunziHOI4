@@ -1,0 +1,22 @@
+
+state={
+	id=513
+	name="STATE_513"
+	provinces={
+		337 389 841 2013 2114 2324 2926 4325 4330 4331 4339 4342 4353 7172 
+	}
+	state_category = rural
+	manpower=802715
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4330 = { naval_base = 1 }
+		}
+		owner = SLC
+		controller = SLC
+		add_core_of = SLC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

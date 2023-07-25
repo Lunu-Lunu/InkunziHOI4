@@ -1,0 +1,38 @@
+state={
+	id=299
+	name="STATE_299"
+	provinces={
+		1255 2445 2985 3151 3921 4048 4138 5451 
+	}
+	state_category = megalopolis
+	manpower=14635600
+	history={
+		victory_points = {
+			4048 50
+		}
+		victory_points = {
+			2985 10
+		}
+		victory_points = {
+			4138 10
+		}
+		victory_points = {
+			2445 5
+		}
+		victory_points = {
+			1255 5
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 3
+			dockyard = 2
+			4048 = { naval_base = 10 }
+		}
+		owner = ZUN
+		controller = ZUN
+		add_core_of = ZUN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

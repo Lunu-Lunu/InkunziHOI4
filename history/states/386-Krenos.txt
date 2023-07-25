@@ -1,0 +1,20 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		13 540 1326 1549 1591 1738 1890 3185 4609 4641 4670 4684 4696 4711 4735 4746 
+	}
+	state_category = town
+	manpower=1023400
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = KAA
+		controller = KAA
+		add_core_of = KAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

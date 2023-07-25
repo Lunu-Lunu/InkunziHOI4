@@ -1,0 +1,22 @@
+
+state={
+	id=449
+	name="STATE_449"
+	provinces={
+		524 1666 2395 3907 5368 5396 7067 7068 7069 7070 
+	}
+	state_category = town
+	manpower=1270360
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			5368 = { naval_base = 1 }
+		}
+		owner = ASH
+		controller = ASH
+		add_core_of = ASH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

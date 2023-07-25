@@ -1,0 +1,23 @@
+state={
+	id=565
+	name="STATE_565"
+	provinces={
+		164 253 739 779 1042 1219 1632 1752 1913 2147 2475 2642 2902 3570 6064 6095 6098 6113 6118 6140 6153 6187 6214 6225 6259 
+	}
+	state_category = large_town
+	manpower=2196400
+	history={
+		victory_points = {
+			6259 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

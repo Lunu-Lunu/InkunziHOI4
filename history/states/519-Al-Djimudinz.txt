@@ -1,0 +1,26 @@
+state={
+	id=519
+	name="STATE_519"
+	provinces={
+		73 294 3107 5751 5757 
+	}
+	state_category = large_town
+	manpower=1400560
+	history={
+		victory_points = {
+			294 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			295 = { naval_base = 1 }
+		}
+		owner = BOS
+		controller = BOS
+		add_core_of = BOS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		206 246 409 526 1148 1153 1422 1603 1777 1841 1966 2025 2425 2834 2960 3140 3282 3353 3765 3951 4075 4130 4140 4151 6285 6307 6324 6332 6335 6379 6395 
+	}
+	state_category = rural
+	manpower=401595
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

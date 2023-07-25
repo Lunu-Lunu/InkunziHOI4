@@ -1,0 +1,25 @@
+state={
+	id=603
+	name="STATE_603"
+	provinces={
+		888 1269 1329 1499 1659 2105 2971 6934 6939 6943 6947 6949 6954 6959 
+	}
+	state_category = large_town
+	manpower=1308480
+	history={
+		victory_points = {
+			6959 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			6959 = { naval_base = 3 }
+		}
+		owner = ANQ
+		controller = ANQ
+		add_core_of = ANQ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

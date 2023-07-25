@@ -1,0 +1,23 @@
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		2006 3152 3274 3994 4156 6977 6987 6995 6997 7006 7016 7414 7415 7416 7417 7418 7419 7420 7421 7422 
+	}
+	state_category = town
+	manpower=2580970
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			7016 = { naval_base = 2 }
+			7006 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

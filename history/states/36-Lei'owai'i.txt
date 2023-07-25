@@ -1,0 +1,28 @@
+
+state={
+	id=36
+	name="STATE_36"
+
+	history={
+		victory_points = {
+			5738 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		538 603 992 1992 2238 2303 3615 5665 5684 5690 5708 5738 7112 
+	}
+	manpower=3369404
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

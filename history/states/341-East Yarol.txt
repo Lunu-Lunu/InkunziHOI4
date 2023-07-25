@@ -1,0 +1,29 @@
+state={
+	id=341
+	name="STATE_341"
+	provinces={
+		194 214 1015 1041 1944 1952 2382 3088 3404 3761 4082 5598 5606 5626 5632 5639 5642 5658 
+	}
+	state_category = city
+	manpower=6591920
+	history={
+		victory_points = {
+			2382 15
+		}
+		victory_points = {
+			1041 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			1041 = { naval_base = 5 }
+			5658 = { naval_base = 3 }
+		}
+		owner = AUR
+		controller = AUR
+		add_core_of = AUR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=10
+	name="STATE_10"
+	provinces={
+		285 937 2283 2656 3303 3350 3462 3902 4731 4755 4792 4803 
+	}
+	state_category = city
+	manpower=3756680
+	history={
+		victory_points = {
+			4731 10
+		}
+		victory_points = {
+			2656 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			4731 = { naval_base = 2 }
+			2656 = { naval_base = 2 }
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+		# releasable/subject
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

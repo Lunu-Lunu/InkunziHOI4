@@ -1,0 +1,30 @@
+state={
+	id=520
+	name="STATE_520"
+	provinces={
+		142 176 672 783 1328 1490 2155 4282 5771 5799 5850 5852 5869 5879 5895 
+	}
+	state_category = metropolis
+	manpower=7236240
+	history={
+		victory_points = {
+			5771 35
+		}
+		victory_points = {
+			2482 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			5771 = { naval_base = 5 }
+			2482 = { naval_base = 3 }
+		}
+		owner = BOS
+		controller = BOS
+		add_core_of = BOS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=474
+	name="STATE_474"
+	provinces={
+		70 107 1285 3025 3419 3633 4624 4643 4644 4654 4676 4697 
+	}
+	state_category = pastoral
+	manpower=190520
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = ALZ
+		controller = ALZ
+		add_core_of = ALZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

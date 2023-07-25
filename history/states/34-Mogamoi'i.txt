@@ -1,0 +1,23 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={
+		980 1424 2198 3331 4166 4246 5585 5592 5620 5640 
+	}
+	state_category = town
+	manpower=1980811
+	history={
+		victory_points = {
+			980 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

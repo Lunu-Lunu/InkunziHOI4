@@ -1,0 +1,29 @@
+state={
+	id=155
+	name="STATE_155"
+	provinces={
+		48 474 1124 1801 1863 2495 3204 3521 3721 3906 4061 4171 6217 6223 6265 6288 6347 
+	}
+	state_category = large_city
+	manpower=4813480
+	history={
+		victory_points = {
+			4061 20
+		}
+		victory_points = {
+			3721 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			4061 = { naval_base = 5 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

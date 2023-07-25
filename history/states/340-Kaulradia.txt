@@ -1,0 +1,24 @@
+state={
+	id=340
+	name="STATE_340"
+	provinces={
+		1134 2982 3060 3861 5567 5587 
+	}
+	state_category = large_city
+	manpower=6195600
+	history={
+		victory_points = {
+			3851 40
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+		owner = AUR
+		controller = AUR
+		add_core_of = AUR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=174
+	name="STATE_174"
+	provinces={
+		18 179 187 293 498 527 530 571 633 900 1103 1126 1477 2092 2208 2577 2787 3276 3313 3337 3372 6350 6353 6386 6404 6424 6484 
+	}
+	state_category = rural
+	manpower=2603894
+	history={
+		victory_points = {
+			3337 5
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		owner = KNK
+		controller = KNK
+		add_core_of = KNK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

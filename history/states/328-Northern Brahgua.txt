@@ -1,0 +1,25 @@
+
+state={
+	id=328
+	name="STATE_328"
+	provinces={
+		1654 1853 1886 2215 3034 5469 5525 5532 5534 
+	}
+	state_category = city
+	manpower=5366400
+	history={
+		victory_points = {
+			5534 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		owner = NBR
+		controller = NBR
+		add_core_of = NBR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=377
+	name="STATE_377"
+	provinces={
+		3059 4598 4615 
+	}
+	state_category = pastoral
+	manpower=86209
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = KHA
+		controller = KHA
+		add_core_of = KHA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

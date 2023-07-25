@@ -1,0 +1,24 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		593 664 686 1679 2586 2984 3578 5832 5841 
+	}
+	state_category = town
+	manpower=1786179
+	history={
+		victory_points = {
+			2586 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			2586 = { naval_base = 1 }
+		}
+		owner = MRL
+		controller = MRL
+		add_core_of = MRL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

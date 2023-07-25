@@ -1,0 +1,19 @@
+state={
+	id=375
+	name="STATE_375"
+	provinces={
+		53 1550 2558 2684 2975 3012 3703 4208 4700 4737 4739 4759 4760 4767 4783 4787 
+	}
+	state_category = pastoral
+	manpower=386240
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = MER
+		controller = MER
+		add_core_of = MER
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

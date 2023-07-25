@@ -1,0 +1,22 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		348 361 403 1810 2018 3077 3378 5132 5156 5189 
+	}
+	state_category = large_town
+	manpower=3035813
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			3378 = { naval_base = 2 }
+		}
+		owner = FRS
+		controller = FRS
+		add_core_of = FRS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

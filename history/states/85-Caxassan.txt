@@ -1,0 +1,20 @@
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		317 339 962 1067 1374 1724 2160 3141 3223 3754 3812 4124 6231 6238 6278 6283 6296 
+	}
+	state_category = town
+	manpower=2803647
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

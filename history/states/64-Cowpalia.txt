@@ -1,0 +1,44 @@
+
+state={
+	id=64
+	name="STATE_64"
+
+	history={
+		victory_points = {
+			1767 5 
+		}
+		victory_points = {
+			5962 1 
+		}
+		victory_points = {
+			2629 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			1767 = {
+				naval_base = 2
+
+			}
+			2629 = {
+				naval_base = 3
+
+			}
+
+		}
+		owner = GLL
+		controller = GLL
+		add_core_of = GLL
+
+	}
+
+	provinces={
+		1767 2168 2629 3809 4003 5926 5934 5941 5949 5956 5962 
+	}
+	manpower=4842337
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

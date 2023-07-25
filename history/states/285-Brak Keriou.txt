@@ -1,0 +1,24 @@
+state={
+	id=285
+	name="STATE_285"
+	provinces={
+		39 840 908 1309 2732 3359 3690 3870 5382 5403 5480 5506 5518 
+	}
+	state_category = town
+	manpower=1842120
+	history={
+		victory_points = {
+			39 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = BRK
+		controller = BRK
+		add_core_of = BRK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=564
+	name="STATE_564"
+	provinces={
+		62 200 259 523 862 914 1111 1433 1504 1561 1788 1792 2184 2535 2599 2630 2712 3016 3246 3304 3552 3594 3676 3844 6149 6181 6195 6218 6239 6243 6254 6258 6274 6277 6284 6326 
+	}
+	state_category = town
+	manpower=2917120
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=331
+	name="STATE_331"
+	provinces={
+		347 1031 2266 2714 2783 3171 5631 5634 5657 5660 5672 5686 
+	}
+	state_category = large_city
+	manpower=6202800
+	history={
+		victory_points = {
+			2714 35
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			2714 = { naval_base = 5 }
+		}
+		owner = PRZ
+		controller = PRZ
+		add_core_of = PRZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

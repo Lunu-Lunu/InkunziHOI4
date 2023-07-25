@@ -1,0 +1,32 @@
+
+state={
+	id=41
+	name="STATE_41"
+
+	history={
+		victory_points = {
+			2998 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			2998 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = ELY
+		controller = ELY
+		add_core_of = ELY
+
+	}
+
+	provinces={
+		41 1177 1898 1921 2998 3417 3460 3913 5887 5891 5922 5938 5945 7236 
+	}
+	manpower=2220548
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

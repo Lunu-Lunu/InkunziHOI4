@@ -1,0 +1,21 @@
+state={
+	id=158
+	name="STATE_158"
+	provinces={
+		9 408 412 536 863 1095 3425 3437 4165 6191 6209 6227 6248 6264 6279 
+	}
+	state_category = town
+	manpower=1201247
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6264 = { naval_base = 1 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

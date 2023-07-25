@@ -1,0 +1,26 @@
+state={
+	id=542
+	name="STATE_542"
+	provinces={
+		196 369 513 525 1045 1766 2639 3413 3741 3940 5729 5762 5764 5778 5798 5802 
+	}
+	state_category = city
+	manpower=3277800
+	history={
+		victory_points = {
+			5762 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			5762 = { naval_base = 3 }
+		}
+		owner = ODA
+		controller = ODA
+		add_core_of = ODA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

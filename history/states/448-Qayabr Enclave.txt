@@ -1,0 +1,19 @@
+state={
+	id=448
+	name="STATE_448"
+	provinces={
+		5470 8196 
+	}
+	state_category = enclave
+	manpower=16975
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = QAY
+		controller = QAY
+		add_core_of = QAY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

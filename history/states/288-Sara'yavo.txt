@@ -1,0 +1,24 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		2921 3050 5593 
+	}
+	state_category = large_town
+	manpower=1473740
+	history={
+		victory_points = {
+			2921 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			2921 = { naval_base = 1 }
+		}
+		owner = MAA
+		controller = MAA
+		add_core_of = MAA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

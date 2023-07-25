@@ -1,0 +1,33 @@
+
+state={
+	id=27
+	name="STATE_27"
+
+	history={
+		victory_points = {
+			3218 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			3218 = {
+				naval_base = 3
+
+			}
+
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		484 1140 1693 3218 3772 4008 4049 5306 5328 5333 5357 7059 7108 
+	}
+	manpower=2405955
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

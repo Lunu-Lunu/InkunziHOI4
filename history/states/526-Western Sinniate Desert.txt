@@ -1,0 +1,16 @@
+state={
+	id=526
+	name="STATE_526"
+	provinces={
+		8 129 256 312 438 470 621 784 846 1345 1394 1460 1574 1728 1781 1852 2004 2235 2387 2401 2729 3485 5947 6022 
+	}
+	state_category = wasteland
+	manpower=14
+	history={
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

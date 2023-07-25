@@ -1,0 +1,28 @@
+
+state={
+	id=362
+	name="STATE_362"
+	provinces={
+		2484 3232 3769 4146 4261 5081 5093 5111 5134 5144 5171 5202 
+	}
+	state_category = large_city
+	manpower=7499800
+	history={
+		victory_points = {
+			5171 25
+		}
+		victory_points = {
+			4146 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		owner = PYA
+		controller = PYA
+		add_core_of = PYA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

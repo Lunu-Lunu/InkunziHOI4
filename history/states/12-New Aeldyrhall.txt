@@ -1,0 +1,30 @@
+state={
+	id=12
+	name="STATE_12"
+	provinces={
+		624 3575 4664 4726 
+	}
+	state_category = large_city
+	manpower=3667680
+	history={
+		victory_points = {
+			4664 15
+		}
+		victory_points = {
+			624 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 3
+			4664 = { naval_base = 10 }
+			624 = { naval_base = 3 }
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+		# Add releasable/make into dominion or puppet
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

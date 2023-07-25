@@ -1,0 +1,25 @@
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		183 3214 3638 3744 6080 6087 6096 6136 7293 
+	}
+	state_category = large_town
+	manpower=2819703
+	history={
+		victory_points = {
+			7293 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			7293 = { naval_base = 1 }
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

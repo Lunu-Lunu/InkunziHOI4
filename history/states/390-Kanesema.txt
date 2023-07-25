@@ -1,0 +1,25 @@
+state={
+	id=390
+	name="STATE_390"
+	provinces={
+		600 1828 1871 2111 2612 2691 3262 3442 3929 3954 4413 4425 4427 4428 4430 4443 4444 4460 4465 4467 4493 
+	}
+	state_category = large_town
+	manpower=3017840
+	history={
+		victory_points = {
+			4430 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			4430 = { naval_base = 3 }
+		}
+		owner = KAN
+		controller = KAN
+		add_core_of = KAN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

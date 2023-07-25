@@ -1,0 +1,28 @@
+
+state={
+	id=115
+	name="STATE_115"
+
+	history={
+		buildings = {
+			infrastructure = 3
+			6727 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = HFH
+		controller = HFH
+		add_core_of = HFH
+
+	}
+
+	provinces={
+		6725 6727 
+	}
+	manpower=996534
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

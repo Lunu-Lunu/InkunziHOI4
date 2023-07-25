@@ -1,0 +1,24 @@
+state={
+	id=620
+	name="STATE_620"
+	provinces={
+		7180 
+	}
+	state_category = enclave
+	manpower=186200
+	history={
+		victory_points = {
+			7180 1
+		}
+		buildings = {
+			infrastructure = 4
+			7180 = { naval_base = 1 }
+		}
+		owner = SIE
+		controller = SIE
+		add_core_of = SIE
+		add_core_of = MRZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

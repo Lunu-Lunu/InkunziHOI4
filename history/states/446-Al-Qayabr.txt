@@ -1,0 +1,24 @@
+state={
+	id=446
+	name="STATE_446"
+	provinces={
+		148 275 1024 1242 1298 1407 1732 2348 2492 3293 3793 5408 5424 5455 
+	}
+	state_category = large_town
+	manpower=1744960
+	history={
+		victory_points = {
+			275 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = QAY
+		controller = QAY
+		add_core_of = QAY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		456 548 821 1506 1893 2183 2391 2489 2518 2739 2813 2821 2947 3198 3284 3708 6662 6670 6690 6691 6692 6701 6715 6716 6720 6729 6739 6740 6742 6747 
+	}
+	state_category = pastoral
+	manpower=198146
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

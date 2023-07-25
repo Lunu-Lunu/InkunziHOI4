@@ -1,0 +1,19 @@
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		439 557 645 915 1204 1694 2237 2432 3080 3387 4183 4604 4613 4651 
+	}
+	state_category = pastoral
+	manpower=36268
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

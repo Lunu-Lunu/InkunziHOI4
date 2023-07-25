@@ -1,0 +1,7 @@
+# Carolais
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 55 110 190 }
+color_ui = rgb { 75 130 210 }

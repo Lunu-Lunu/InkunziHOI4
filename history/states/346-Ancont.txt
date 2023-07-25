@@ -1,0 +1,31 @@
+
+state={
+	id=346
+	name="STATE_346"
+	provinces={
+		656 1494 1586 2123 2211 3129 3627 3790 4097 4206 5235 
+	}
+	state_category = large_city
+	manpower=6739200
+	history={
+		victory_points = {
+			4206 25
+		}
+		victory_points = {
+			3627 10
+		}
+		victory_points = {
+			1494 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = PLA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

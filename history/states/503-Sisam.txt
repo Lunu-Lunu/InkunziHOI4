@@ -1,0 +1,23 @@
+state={
+	id=503
+	name="STATE_503"
+	provinces={
+		227 340 450 584 1297 1516 1954 2636 2702 3612 4288 4293 4295 4296 7025 
+	}
+	state_category = town
+	manpower=2596796
+	history={
+		victory_points = {
+			4295 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = DYO
+		controller = DYO
+		add_core_of = DYO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

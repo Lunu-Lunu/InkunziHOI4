@@ -1,0 +1,27 @@
+state={
+	id=309
+	name="STATE_309"
+	provinces={
+		444 661 997 3537 4034 4045 4067 4969 4998 5024 5059 5102 
+	}
+	state_category = city
+	manpower=5195680
+	history={
+		victory_points = {
+			4998 15
+		}
+		victory_points = {
+			5102 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = ASA
+		controller = ASA
+		add_core_of = ASA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

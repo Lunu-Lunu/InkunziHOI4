@@ -1,0 +1,21 @@
+state={
+	id=187
+	name="STATE_187"
+	provinces={
+		1832 2379 4240 5072 
+	}
+	state_category = pastoral
+	manpower=25056
+	history={
+		buildings = {
+			infrastructure = 2
+			2379 = { naval_base = 1 }
+		}
+		owner = TNU
+		controller = TNU
+		#add_core_of = TNU
+		# check who this should be core of (if anybody)
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

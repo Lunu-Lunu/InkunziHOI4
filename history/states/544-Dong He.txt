@@ -1,0 +1,24 @@
+state={
+	id=544
+	name="STATE_544"
+	provinces={
+		5776 
+	}
+	state_category = large_town
+	manpower=656900
+	history={
+		victory_points = {
+			5776 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			5776 = { naval_base = 3 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = KAR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		715 946 1016 1194 5788 5811 5830 
+	}
+	state_category = city
+	manpower=4620559
+	history={
+		victory_points = {
+			715 15
+		}
+		victory_points = {
+			5788 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			5788 = { naval_base = 5 }
+		}
+		owner = MRL
+		controller = MRL
+		add_core_of = MRL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=524
+	name="STATE_524"
+	provinces={
+		335 382 496 797 1109 1273 1703 2968 3767 3882 4064 5931 5959 5999 
+	}
+	state_category = city
+	manpower=4063720
+	history={
+		victory_points = {
+			797 25
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			797 = { naval_base = 5 }
+		}
+		owner = OOI
+		controller = OOI
+		add_core_of = OOI
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		331 346 976 1474 2342 2934 4053 4167 5927 5939 5952 5969 5976 5985 
+	}
+	state_category = large_town
+	manpower=3381766
+	history={
+		victory_points = {
+			5969 10
+		}
+		victory_points = {
+			5939 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			5969 = { naval_base = 3 }
+		}
+		owner = GLL
+		controller = GLL
+		add_core_of = GLL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=144
+	name="STATE_144"
+	provinces={
+		658 1170 1232 1253 1403 1496 1710 1866 2287 2504 2611 2750 3530 3799 4127 6591 6599 6605 6609 6612 6616 6617 6624 6625 6633 6641 6647 7363 
+	}
+	state_category = town
+	manpower=2806089
+	history={
+		victory_points = {
+			6599 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = SLB
+		controller = SLB
+		add_core_of = SLB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

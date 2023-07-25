@@ -1,0 +1,25 @@
+state={
+	id=162
+	name="STATE_162"
+	provinces={
+		66 334 763 950 1228 1230 1581 1614 1894 2657 3258 3525 3620 4015 4123 6186 6219 6220 6257 
+	}
+	state_category = rural
+	manpower=400217
+	history={
+		victory_points = {
+			4061 20
+		}
+		victory_points = {
+			3721 3
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

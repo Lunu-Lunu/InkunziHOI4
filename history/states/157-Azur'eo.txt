@@ -1,0 +1,30 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		781 1934 2096 2417 3607 6210 6228 6233 6242 6250 6260 6287 
+	}
+	state_category = town
+	manpower=2406299
+	history={
+		victory_points = {
+			2417 1
+		}
+		victory_points = {
+			1934 3
+		}
+		victory_points = {
+			781 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			2417 = { naval_base = 1 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

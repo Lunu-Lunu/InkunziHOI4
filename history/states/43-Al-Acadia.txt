@@ -1,0 +1,25 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		1578 2011 2317 2800 3345 4255 5790 5805 5824 5825 5840 5842 7210 
+	}
+	state_category = large_town
+	manpower=2602210
+	history={
+		victory_points = {
+			5824 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			5824 = { naval_base = 3 }
+			7210 = { naval_base = 1 }
+		}
+		owner = ELY
+		controller = ELY
+		add_core_of = ELY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

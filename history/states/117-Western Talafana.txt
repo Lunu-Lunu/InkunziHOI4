@@ -1,0 +1,29 @@
+
+state={
+	id=117
+	name="STATE_117"
+
+	history={
+		victory_points = {
+			4281 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+
+	}
+
+	provinces={
+		1560 1572 1745 2485 2963 3932 4281 6575 6585 6594 6611 7369 
+	}
+	manpower=4189695
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

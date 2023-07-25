@@ -1,0 +1,29 @@
+
+state={
+	id=37
+	name="STATE_37"
+
+	history={
+		victory_points = {
+			5663 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		1537 1784 2595 2940 3265 3448 4155 5662 5663 5666 5693 5701 5724 5737 
+	}
+	manpower=2577988
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

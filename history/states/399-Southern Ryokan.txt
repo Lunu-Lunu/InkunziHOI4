@@ -1,0 +1,19 @@
+state={
+	id=399
+	name="STATE_399"
+	provinces={
+		125 866 902 1043 2116 2546 3169 3190 3429 3788 4451 4463 4486 4487 4513 4527 4538 4550 4569 4580 4602 
+	}
+	state_category = pastoral
+	manpower=196600
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = SHO
+		controller = SHO
+		add_core_of = SHO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

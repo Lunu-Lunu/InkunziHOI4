@@ -1,0 +1,20 @@
+state={
+	id=257
+	name="STATE_257"
+	provinces={
+		4056 5449 5485 
+	}
+	state_category = rural
+	manpower=948400
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = ZAD
+		controller = ZAD
+		add_core_of = ZAD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

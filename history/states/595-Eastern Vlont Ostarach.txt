@@ -1,0 +1,19 @@
+state={
+	id=595
+	name="STATE_595"
+	provinces={
+		572 670 1063 1861 1873 2286 3036 3816 6306 6373 6405 6418 
+	}
+	state_category = rural
+	manpower=937200
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = MRH
+		controller = MRH
+		add_core_of = MRH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

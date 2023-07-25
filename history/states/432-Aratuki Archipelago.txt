@@ -1,0 +1,23 @@
+state={
+	id=432
+	name="STATE_432"
+	provinces={
+		7071 7073 7074 7076 7079 7081 7083 7103 7107 
+	}
+	state_category = town
+	manpower=2182000
+	history={
+		victory_points = {
+			7079 3
+		}
+		buildings = {
+			infrastructure = 3
+			7245 = { naval_base = 5 }
+		}
+		owner = MLK
+		controller = MLK
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

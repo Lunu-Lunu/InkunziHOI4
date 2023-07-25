@@ -1,0 +1,25 @@
+state={
+	id=426
+	name="STATE_426"
+	provinces={
+		341 1520 1556 2496 3641 3909 5295 5319 5372 
+	}
+	state_category = large_town
+	manpower=2346080
+	history={
+		victory_points = {
+			3641 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			3641 = { naval_base = 3 }
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

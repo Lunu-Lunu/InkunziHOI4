@@ -1,0 +1,19 @@
+state={
+	id=303
+	name="STATE_303"
+	provinces={
+		493 1182 3374 3635 4119 5248 
+	}
+	state_category = rural
+	manpower=606360
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+		owner = HEV
+		controller = HEV
+		add_core_of = HEV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

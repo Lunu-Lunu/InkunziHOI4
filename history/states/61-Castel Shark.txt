@@ -1,0 +1,25 @@
+state={
+	id=61
+	name="STATE_61"
+	provinces={
+		3915 4221 
+	}
+	state_category = town
+	manpower=1189360
+	history={
+		victory_points = {
+			3915 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			3915 = { naval_base = 1 }
+		}
+		owner = GLL
+		controller = GLL
+		add_core_of = GLL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

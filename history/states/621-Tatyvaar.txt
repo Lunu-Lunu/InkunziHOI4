@@ -1,0 +1,21 @@
+state={
+	id=621
+	name="STATE_621"
+	provinces={
+		7062 
+	}
+	state_category = enclave
+	manpower=192000
+	history={
+		buildings = {
+			infrastructure = 2
+			7062 = { naval_base = 3 }
+		}
+		owner = KAR
+		controller = KAR
+		add_core_of = ZAH
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

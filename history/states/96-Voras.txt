@@ -1,0 +1,26 @@
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		278 1330 1431 1888 1925 2561 2683 3163 3312 4069 6002 6005 6016 6024 6031 6034 
+	}
+	state_category = large_city
+	manpower=3606361
+	history={
+		victory_points = {
+			6005 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			6005 = { naval_base = 3 }
+		}
+		owner = HSH
+		controller = HSH
+		add_core_of = HSH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

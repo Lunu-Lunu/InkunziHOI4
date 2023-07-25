@@ -1,0 +1,24 @@
+
+state={
+	id=31
+	name="STATE_31"
+
+	history={
+		buildings = {
+			infrastructure = 2
+
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		984 2762 3355 3495 3768 3827 4029 5337 5448 7302 
+	}
+	manpower=401710
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

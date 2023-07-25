@@ -1,0 +1,25 @@
+state={
+	id=213
+	name="STATE_213"
+	provinces={
+		945 960 1263 4115 5088 5120 5149 5153 
+	}
+	state_category = large_town
+	manpower=3591760
+	history={
+		victory_points = {
+			5153 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			5153 = { naval_base = 5 }
+		}
+		owner = VRD
+		controller = VRD
+		add_core_of = VRD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=444
+	name="STATE_444"
+	provinces={
+		592 1107 1312 1811 2246 2908 3503 3795 5705 5734 5736 5746 
+	}
+	state_category = large_town
+	manpower=2080400
+	history={
+		victory_points = {
+			5736 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			5736 = { naval_base = 5 }
+		}
+		owner = ASH
+		controller = ASH
+		add_core_of = ASH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

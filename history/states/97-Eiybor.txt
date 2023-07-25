@@ -1,0 +1,27 @@
+state={
+	id=97
+	name="STATE_97"
+	provinces={
+		811 1962 2375 2574 3415 3465 3713 3877 3879 5986 5994 6000 6006 
+	}
+	state_category = town
+	manpower=1588358
+	history={
+		victory_points = {
+			2574 1
+		}
+		victory_points = {
+			811 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			811 = { naval_base = 1 }
+		}
+		owner = HSH
+		controller = HSH
+		add_core_of = HSH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

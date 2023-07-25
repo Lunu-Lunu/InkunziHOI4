@@ -1,0 +1,21 @@
+state={
+	id=419
+	name="STATE_419"
+	provinces={
+		7044 
+	}
+	state_category = small_island
+	manpower=191250
+	history={
+		buildings={
+			infrastructure = 3
+			7044 = { naval_base = 1 }
+		}
+		owner = DYO
+		controller = DYO
+		set_compliance = 80
+		add_core_of = FCC
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

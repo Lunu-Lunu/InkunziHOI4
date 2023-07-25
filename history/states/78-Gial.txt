@@ -1,0 +1,23 @@
+state={
+	id=78
+	name="STATE_78"
+	provinces={
+		3379 6124 
+	}
+	state_category = enclave
+	manpower=602649
+	history={
+		victory_points = {
+			6124 1
+		}
+		buildings = {
+			infrastructure = 3
+			6124 = { naval_base = 1 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

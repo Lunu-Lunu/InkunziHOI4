@@ -1,0 +1,19 @@
+state={
+	id=392
+	name="STATE_392"
+	provinces={
+		812 1391 1584 1700 1802 2048 2252 2458 4031 4094 4207 4230 4380 4388 4400 4411 4416 4421 4423 4438 4454 
+	}
+	state_category = rural
+	manpower=837440
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = KAN
+		controller = KAN
+		add_core_of = KAN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

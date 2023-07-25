@@ -1,0 +1,39 @@
+
+state={
+	id=53
+	name="STATE_53"
+
+	history={
+		victory_points = {
+			4059 5 
+		}
+		victory_points = {
+			2058 2 
+		}
+		victory_points = {
+			5754 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			4059 = {
+				naval_base = 3
+
+			}
+
+		}
+		owner = ESM
+		controller = ESM
+		add_core_of = ESM
+
+	}
+
+	provinces={
+		893 1304 2058 2121 2336 2888 2938 3333 3702 4059 5687 5702 5728 5744 5754 8203 
+	}
+	manpower=5396175
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

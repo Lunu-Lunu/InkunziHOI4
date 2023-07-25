@@ -1,0 +1,26 @@
+state={
+	id=454
+	name="STATE_454"
+	provinces={
+		197 836 951 1011 2053 2136 2526 2650 3787 5645 
+	}
+	state_category = large_town
+	manpower=2337600
+	history={
+		victory_points = {
+			3787 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3787 = { naval_base = 5 }
+		}
+		owner = BMK
+		controller = BMK
+		add_core_of = BMK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

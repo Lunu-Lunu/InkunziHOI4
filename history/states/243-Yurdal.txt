@@ -1,0 +1,24 @@
+state={
+	id=243
+	name="STATE_243"
+	provinces={
+		7109 7111 7113 7114 7117 7119 7122 7123 7124 7125 
+	}
+	state_category = town
+	manpower=1158720
+	history={
+		victory_points = {
+			7114 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = ZAD
+		controller = ZAD
+		set_compliance = 80
+		#add_core_of = ZAD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

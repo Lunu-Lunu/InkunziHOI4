@@ -1,0 +1,24 @@
+state={
+	id=374
+	name="STATE_374"
+	provinces={
+		1642 1695 2079 2293 2443 2958 3671 3920 4757 4808 4853 4876 4939 
+	}
+	state_category = large_town
+	manpower=3441480
+	history={
+		victory_points = {
+			2443 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = MER
+		controller = MER
+		add_core_of = MER
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

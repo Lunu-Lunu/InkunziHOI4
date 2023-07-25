@@ -1,0 +1,36 @@
+state={
+	id=550
+	name="STATE_550"
+	provinces={
+		433 923 1585 1823 3192 3515 3561 3734 5834 5846 5864 5890 5913 5930 
+	}
+	state_category = large_city
+	manpower=5596560
+	history={
+		victory_points = {
+			3192 10
+		}
+		victory_points = {
+			5846 5
+		}
+		victory_points = {
+			1585 5
+		}
+		victory_points = {
+			3834 10
+		}
+		victory_points = {
+			5930 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+		owner = DAH
+		controller = DAH
+		add_core_of = DAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

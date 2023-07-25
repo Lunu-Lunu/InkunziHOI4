@@ -1,0 +1,19 @@
+state={
+	id=559
+	name="STATE_559"
+	provinces={
+		238 451 462 476 638 694 733 769 870 906 961 1062 1284 1380 1432 1904 3512 3922 3995 6082 6086 6100 6112 6125 6135 6139 6147 6201 6206 6224 
+	}
+	state_category = wasteland
+	manpower=37900
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

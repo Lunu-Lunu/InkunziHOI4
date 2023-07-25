@@ -1,0 +1,28 @@
+state={
+	id=298
+	name="STATE_298"
+	provinces={
+		1623 4096 5283 
+	}
+	state_category = large_city
+	manpower=5665680
+	history={
+		victory_points = {
+			1623 25
+		}
+		victory_points = {
+			4096 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+			4096 = { naval_base = 3 }
+		}
+		owner = ZUN
+		controller = ZUN
+		add_core_of = ZUN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

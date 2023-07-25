@@ -1,0 +1,27 @@
+
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		1923 2389 2442 2520 2673 3072 3135 3486 3760 4084 4110 5418 5476 5477 5492 5499 5526 5545 
+	}
+	state_category = city
+	manpower=6360720
+	history={
+		victory_points = {
+			5492 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			1923 = { naval_base = 3 }
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = PLA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

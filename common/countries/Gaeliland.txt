@@ -1,0 +1,7 @@
+# Gaeliland
+
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+color = rgb { 38 53 34 }
+color_ui = rgb { 58 73 54 }

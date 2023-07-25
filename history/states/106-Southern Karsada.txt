@@ -1,0 +1,33 @@
+
+state={
+	id=106
+	name="STATE_106"
+
+	history={
+		victory_points = {
+			6573 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			6573 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = LYS
+		controller = LYS
+		add_core_of = LYS
+
+	}
+
+	provinces={
+		249 722 1564 1565 1963 2653 2986 3608 3720 3789 4226 6555 6556 6562 6567 6573 6580 6584 7376 
+	}
+	manpower=5212549
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

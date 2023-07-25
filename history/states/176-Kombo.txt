@@ -1,0 +1,23 @@
+state={
+	id=176
+	name="STATE_176"
+	provinces={
+		201 269 573 649 695 894 1114 1120 1236 1428 1439 1610 1628 1731 2692 2925 3165 3466 4093 6523 6544 6552 6570 6574 6576 6587 6590 
+	}
+	state_category = rural
+	manpower=2998842
+	history={
+		victory_points = {
+			1628 5
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		owner = KNK
+		controller = KNK
+		add_core_of = KNK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

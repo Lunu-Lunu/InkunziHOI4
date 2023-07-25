@@ -1,0 +1,30 @@
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		1675 1770 3567 3828 5777 5785 5787 5803 
+	}
+	state_category = city
+	manpower=2638450
+	history={
+		victory_points = {
+			3567 15
+		}
+		victory_points = {
+			1770 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			3567 = { naval_base = 3 }
+			1770 = { naval_base = 2 }
+		}
+		owner = ATS
+		controller = ATS
+		add_core_of = ATS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

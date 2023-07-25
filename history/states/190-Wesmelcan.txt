@@ -1,0 +1,24 @@
+state={
+	id=190
+	name="STATE_190"
+	provinces={
+		117 3857 5039 
+	}
+	state_category = rural
+	manpower=729600
+	history={
+		victory_points = {
+			3857 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			3957 = { naval_base = 1 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

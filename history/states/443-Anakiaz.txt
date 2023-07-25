@@ -1,0 +1,24 @@
+state={
+	id=443
+	name="STATE_443"
+	provinces={
+		1192 1226 2170 2177 2992 3324 4055 5484 5540 5560 5584 5617 8200 
+	}
+	state_category = city
+	manpower=3762000
+	history={
+		victory_points = {
+			5584 25
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = ASH
+		controller = ASH
+		add_core_of = ASH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

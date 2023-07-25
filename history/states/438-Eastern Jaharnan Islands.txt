@@ -1,0 +1,20 @@
+state={
+	id=438
+	name="STATE_438"
+	provinces={
+		7215 7218 7219 7221 7222 7224 7225 7230 7235 7240 7248 7249 7251 7252 7254 7277 7278 
+	}
+	state_category = small_island
+	manpower=425400
+	history={
+		buildings = {
+			infrastructure = 3
+			7252 = { naval_base = 1 }
+		}
+		owner = ANQ
+		controller = ANQ
+		set_compliance = 60
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

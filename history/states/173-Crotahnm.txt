@@ -1,0 +1,19 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		377 801 854 1030 1119 1576 1594 1757 1978 2015 2257 2345 2499 2859 3047 3845 4032 4190 6333 6336 6357 6364 6398 6411 6438 6464 
+	}
+	state_category = pastoral
+	manpower=201471
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

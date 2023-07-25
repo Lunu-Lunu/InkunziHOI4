@@ -1,0 +1,29 @@
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		68 252 469 546 641 907 1848 2214 2332 2334 2405 3254 3617 4245 6084 6104 6105 6129 6145 6160 6166 6190 6199 6208 6215 6216 6232 6241 
+	}
+	state_category = city
+	manpower=2988754
+	history={
+		victory_points = {
+			6105 10
+		}
+		victory_points = {
+			2332 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			6105 = { naval_base = 3 }
+			2332 = { naval_base = 2 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

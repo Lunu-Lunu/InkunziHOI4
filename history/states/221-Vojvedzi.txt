@@ -1,0 +1,29 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		116 1132 3011 3609 4081 5586 5603 5604 5623 5648 5655 
+	}
+	state_category = large_town
+	manpower=4100960
+	history={
+		victory_points = {
+			5648 5
+		}
+		victory_points = {
+			5586 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			5648 = { naval_base = 3 }
+			5586 = { naval_base = 1 }
+		}
+		owner = SRB
+		controller = SRB
+		add_core_of = SRB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

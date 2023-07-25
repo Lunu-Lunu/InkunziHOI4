@@ -1,0 +1,24 @@
+state={
+	id=593
+	name="STATE_593"
+	provinces={
+		235 616 1376 1799 2566 2634 3217 3447 3536 3697 3726 6425 6434 6450 6451 6474 6517 6518 6535 6536 
+	}
+	state_category = large_town
+	manpower=1179360
+	history={
+		victory_points = {
+			6518 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			6518 = { naval_base = 3 }
+		}
+		owner = MRH
+		controller = MRH
+		add_core_of = MRH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

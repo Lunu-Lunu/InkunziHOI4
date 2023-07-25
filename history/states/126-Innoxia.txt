@@ -1,0 +1,24 @@
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		169 949 1084 1173 1775 1909 2209 2321 2466 2769 2973 3249 3444 3836 3875 3991 4085 6678 6689 6699 6704 6705 6717 6730 6732 6734 6741 6745 6746 6748 
+	}
+	state_category = large_town
+	manpower=4442749
+	history={
+		victory_points = {
+			3444 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

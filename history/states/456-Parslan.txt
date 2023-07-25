@@ -1,0 +1,29 @@
+
+state={
+	id=456
+	name="STATE_456"
+	provinces={
+		724 1069 1768 2919 3418 3864 5478 5546 5568 8202 
+	}
+	state_category = city
+	manpower=4013520
+	history={
+		victory_points = {
+			5546 15
+		}
+		victory_points = {
+			1678 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			1768 = { naval_base = 3 }
+		}
+		owner = KDM
+		controller = KDM
+		add_core_of = KDM
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=368
+	name="STATE_368"
+	provinces={
+		31 2253 2717 3616 4147 5006 5028 
+	}
+	state_category = city
+	manpower=4116160
+	history={
+		victory_points = {
+			3616 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = GRK
+		controller = GRK
+		add_core_of = GRK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

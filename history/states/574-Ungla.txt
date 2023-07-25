@@ -1,0 +1,26 @@
+state={
+	id=574
+	name="STATE_574"
+	provinces={
+		1680 3292 6363 
+	}
+	state_category = large_city
+	manpower=5068800
+	history={
+		victory_points = {
+			1680 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			1680 = { naval_base = 10 }
+		}
+		owner = UNG
+		controller = UNG
+		add_core_of = UNG
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

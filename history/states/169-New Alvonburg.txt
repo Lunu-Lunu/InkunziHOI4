@@ -1,0 +1,28 @@
+state={
+	id=169
+	name="STATE_169"
+	provinces={
+		6881 7373 7374 7375 7377 7378 7379 7380 7381 7383 7384 7385 7386 7390 7391 7393 
+	}
+	state_category = city
+	manpower=3223028
+	history={
+		victory_points = {
+			6881 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			6881 = { naval_base = 8 }
+			7373 = { naval_base = 1 }
+			7386 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

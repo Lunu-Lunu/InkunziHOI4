@@ -1,0 +1,24 @@
+state={
+	id=365
+	name="STATE_365"
+	provinces={
+		155 192 1308 1778 2021 2275 3260 3541 4025 5256 5272 5278 5341 5347 5379 5380 
+	}
+	state_category = metropolis
+	manpower=7217000
+	history={
+		victory_points = {
+			2021 35
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 3
+		}
+		owner = YYD
+		controller = YYD
+		add_core_of = YYD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

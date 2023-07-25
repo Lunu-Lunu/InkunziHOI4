@@ -1,0 +1,25 @@
+
+state={
+	id=11
+	name="STATE_11"
+	provinces={
+		366 892 1241 1322 2581 2720 4698 4781 4835 7051 
+	}
+	state_category = rural
+	manpower=2243560
+	history={
+		victory_points = {
+			1241 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+		# releasable/subject
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=587
+	name="STATE_587"
+	provinces={
+		123 1924 2080 2531 2617 2780 3114 3886 4131 6099 6110 6122 6171 
+	}
+	state_category = city
+	manpower=2791360
+	history={
+		victory_points = {
+			4131 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4131 = { naval_base = 5 }
+		}
+		owner = MRZ
+		controller = MRZ
+		add_core_of = MRZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		178 1113 1129 1916 2523 2704 3592 3977 4215 4244 5045 5060 5066 5080 5091 5130 5167 
+	}
+	state_category = metropolis
+	manpower=10037200
+	history={
+		victory_points = {
+			1113 35
+		}
+		victory_points = {
+			2704 5
+		}
+		victory_points = {
+			4215 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		owner = VES
+		controller = VES
+		add_core_of = VES
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

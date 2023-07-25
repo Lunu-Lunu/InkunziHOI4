@@ -1,0 +1,25 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		383 1393 2972 3307 3822 6240 6255 6282 6323 
+	}
+	state_category = city
+	manpower=2617296
+	history={
+		victory_points = {
+			6255 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			6255 = { naval_base = 1 }
+		}
+		owner = ZAH
+		controller = ZAH
+		add_core_of = ZAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

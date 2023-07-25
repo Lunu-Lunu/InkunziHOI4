@@ -1,0 +1,25 @@
+
+state={
+	id=332
+	name="STATE_332"
+	provinces={
+		1615 5407 5439 
+	}
+	state_category = city
+	manpower=4639560
+	history={
+		victory_points = {
+			1615 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		owner = STP
+		controller = STP
+		add_core_of = STP
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

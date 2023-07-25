@@ -1,0 +1,24 @@
+state={
+	id=455
+	name="STATE_455"
+	provinces={
+		386 1567 3299 5531 5563 
+	}
+	state_category = large_town
+	manpower=2491200
+	history={
+		victory_points = {
+			3299 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = SAH
+		controller = SAH
+		add_core_of = SAH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

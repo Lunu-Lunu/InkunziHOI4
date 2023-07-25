@@ -1,0 +1,21 @@
+state={
+	id=326
+	name="STATE_326"
+	provinces={
+		882 1502 1743 1942 3225 3384 4252 5270 5294 5303 
+	}
+	state_category = town
+	manpower=2268200
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		owner = ASA
+		controller = ASA
+		add_core_of = ASA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

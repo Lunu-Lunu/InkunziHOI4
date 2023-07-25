@@ -1,0 +1,29 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		5 1462 1503 2281 2530 3133 4141 5398 5427 5440 5471 5482 
+	}
+	state_category = city
+	manpower=3425845
+	history={
+		victory_points = {
+			5440 10
+		}
+		victory_points = {
+			1462 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			5440 = { naval_base = 5 }
+		}
+		owner = SMA
+		controller = SMA
+		add_core_of = SMA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

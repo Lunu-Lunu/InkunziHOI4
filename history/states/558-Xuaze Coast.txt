@@ -1,0 +1,22 @@
+state={
+	id=558
+	name="STATE_558"
+	provinces={
+		431 504 861 1897 2112 2837 2898 3800 6167 6172 6177 6192 6200 6237 6256 6269 
+	}
+	state_category = town
+	manpower=1101120
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			504 = { naval_base = 3 }
+		}
+		owner = XUA
+		controller = XUA
+		add_core_of = XUA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

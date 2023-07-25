@@ -1,0 +1,22 @@
+state={
+	id=297
+	name="STATE_297"
+	provinces={
+		2182 2320 3618 3624 3679 5688 5691 5727 
+	}
+	state_category = town
+	manpower=1187760
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			3679 = { naval_base = 1 }
+		}
+		owner = KRL
+		controller = KRL
+		add_core_of = KRL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

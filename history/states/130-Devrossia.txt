@@ -1,0 +1,20 @@
+state={
+	id=130
+	name="STATE_130"
+	provinces={
+		744 867 977 1211 1349 1521 1763 1814 3459 3972 4169 6866 6873 6889 6890 6917 6924 6932 
+	}
+	state_category = rural
+	manpower=1210735
+	history={
+		buildings = {
+			infrastructure = 2
+			1814 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

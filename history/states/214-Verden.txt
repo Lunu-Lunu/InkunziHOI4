@@ -1,0 +1,24 @@
+state={
+	id=214
+	name="STATE_214"
+	provinces={
+		807 855 928 2164 3722 5056 5057 5086 5125 
+	}
+	state_category = large_town
+	manpower=2934400
+	history={
+		victory_points = {
+			855 15
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = VRD
+		controller = VRD
+		add_core_of = VRD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

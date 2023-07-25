@@ -1,0 +1,24 @@
+state={
+	id=327
+	name="STATE_327"
+	provinces={
+		1100 2816 3482 3600 5571 5582 5589 5591 5605 5619 
+	}
+	state_category = city
+	manpower=4841280
+	history={
+		victory_points = {
+			5591 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		owner = SBR
+		controller = SBR
+		add_core_of = SBR
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

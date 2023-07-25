@@ -1,0 +1,20 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		7349 7350 7352 7353 7354 7355 
+	}
+	state_category = tiny_island
+	manpower=952
+	history={
+		buildings = {
+			infrastructure = 1
+			7349 = { naval_base = 1 }
+		}
+		owner = ELY
+		controller = ELY
+		add_core_of = ELY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

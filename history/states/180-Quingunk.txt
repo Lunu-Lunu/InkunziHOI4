@@ -1,0 +1,24 @@
+state={
+	id=180
+	name="STATE_180"
+	provinces={
+		52 103 730 770 1007 1201 1355 1479 1483 3388 3412 3773 4077 4412 4414 4483 4514 4582 
+	}
+	state_category = town
+	manpower=2080760
+	history={
+		victory_points = {
+			52 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			52 = { naval_base = 1 }
+		}
+		owner = TNU
+		controller = TNU
+		add_core_of = TNU
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

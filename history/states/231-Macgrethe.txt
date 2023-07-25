@@ -1,0 +1,25 @@
+state={
+	id=231
+	name="STATE_231"
+	provinces={
+		1319 2428 5872 5919 
+	}
+	state_category = city
+	manpower=4200000
+	history={
+		victory_points = {
+			2428 25
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			2428 = { naval_base = 3 }
+		}
+		owner = OZA
+		controller = OZA
+		add_core_of = OZA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

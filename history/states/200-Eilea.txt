@@ -1,0 +1,32 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		118 429 1268 1359 2101 2516 2605 3275 3534 4090 4112 4150 4248 5214 5219 5241 5287 5320 5338 5352 7058 
+	}
+	state_category = city
+	manpower=6104520
+	history={
+		victory_points = {
+			4090 1
+		}
+		victory_points = {
+			5214 10
+		}
+		victory_points = {
+			2101 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4090 = { naval_base = 3 }
+		}
+		owner = EIL
+		controller = EIL
+		add_core_of = EIL
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

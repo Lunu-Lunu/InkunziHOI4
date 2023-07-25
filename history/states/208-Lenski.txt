@@ -1,0 +1,25 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		494 2441 4143 4905 4948 4982 
+	}
+	state_category = town
+	manpower=2066240
+	history={
+		victory_points = {
+			494 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			494 = { naval_base = 1 }
+		}
+		owner = MLK
+		controller = MLK
+		add_core_of = MLK
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

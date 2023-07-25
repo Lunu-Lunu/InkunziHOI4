@@ -1,0 +1,26 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		1324 1575 2803 3243 3821 6919 6927 6957 7400 7403 7404 7405 7406 7413 
+	}
+	state_category = large_town
+	manpower=3767215
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			6927 = { naval_base = 1 }
+			1575 = { naval_base = 1 }
+			7400 = { naval_base = 1 }
+			7403 = { naval_base = 1 }
+		}
+		owner = ESS
+		controller = ESS
+		add_core_of = ESS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

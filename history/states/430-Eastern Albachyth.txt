@@ -1,0 +1,19 @@
+state={
+	id=430
+	name="STATE_430"
+	provinces={
+		927 2016 2212 3032 3856 5095 5108 5135 5252 
+	}
+	state_category = rural
+	manpower=319254
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+		owner = JOD
+		controller = JOD
+		add_core_of = JOD
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

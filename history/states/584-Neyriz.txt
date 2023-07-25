@@ -1,0 +1,26 @@
+state={
+	id=584
+	name="STATE_584"
+	provinces={
+		36 319 368 374 460 974 975 1087 2306 2430 2472 2623 2815 3168 3186 3477 3784 4005 6068 6107 6126 6131 6155 6182 
+	}
+	state_category = city
+	manpower=4749000
+	history={
+		victory_points = {
+			2306 25
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			2306 = { naval_base = 5 }
+		}
+		owner = SIE
+		controller = SIE
+		add_core_of = SIE
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

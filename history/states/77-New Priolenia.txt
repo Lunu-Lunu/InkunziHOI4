@@ -1,0 +1,32 @@
+
+state={
+	id=77
+	name="STATE_77"
+
+	history={
+		victory_points = {
+			4058 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4058 = {
+				naval_base = 1
+
+			}
+
+		}
+		owner = NOZ
+		controller = NOZ
+		add_core_of = NOZ
+
+	}
+
+	provinces={
+		95 860 1343 1402 1427 2245 2871 3018 3162 3173 4058 4228 6074 6078 6090 6092 6093 6115 6120 7055 
+	}
+	manpower=201448
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

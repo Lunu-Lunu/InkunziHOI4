@@ -1,0 +1,32 @@
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		4194 5438 5464 5479 5508 5547 5577 
+	}
+	state_category = city
+	manpower=24810560
+	history={
+		victory_points = {
+			5547 10
+		}
+		victory_points = {
+			5479 1
+		}
+		victory_points = {
+			5438 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			5547 = { naval_base = 3 }
+			5438 = { naval_base = 1 }
+		}
+		owner = SRB
+		controller = SRB
+		add_core_of = SRB
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

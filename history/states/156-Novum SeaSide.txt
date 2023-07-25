@@ -1,0 +1,26 @@
+state={
+	id=156
+	name="STATE_156"
+	provinces={
+		1362 2029 2207 2230 2378 2861 3076 3172 3613 3745 4026 6207 6211 6230 6276 
+	}
+	state_category = city
+	manpower=3027933
+	history={
+		victory_points = {
+			1362 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			1362 = { naval_base = 3 }
+		}
+		owner = LAS
+		controller = LAS
+		add_core_of = LAS
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

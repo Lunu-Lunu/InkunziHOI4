@@ -1,0 +1,26 @@
+state={
+	id=111
+	name="STATE_111"
+	provinces={
+		1233 2885 4065 4121 6652 6674 6676 
+	}
+	state_category = city
+	manpower=4626240
+	history={
+		victory_points = {
+			4121 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4121 = { naval_base = 3 }
+		}
+		owner = HFH
+		controller = HFH
+		add_core_of = HFH
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

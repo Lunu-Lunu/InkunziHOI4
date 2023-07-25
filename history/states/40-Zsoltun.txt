@@ -1,0 +1,25 @@
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		4063 5851 5859 5875 
+	}
+	state_category = city
+	manpower=2789489
+	history={
+		victory_points = {
+			5859 15
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			5859 = { naval_base = 5 }
+		}
+		owner = ELY
+		controller = ELY
+		add_core_of = ELY
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

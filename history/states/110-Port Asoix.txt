@@ -1,0 +1,21 @@
+state={
+	id=110
+	name="STATE_110"
+	provinces={
+		3644 
+	}
+	state_category = town
+	manpower=815000
+	history={
+		buildings = {
+			infrastructure = 3
+			3644 = { naval_base = 3 }
+		}
+		owner = PLA
+		controller = PLA
+		add_core_of = ALS
+		set_compliance = 80
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

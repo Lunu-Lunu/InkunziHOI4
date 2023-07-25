@@ -1,0 +1,19 @@
+state={
+	id=528
+	name="STATE_528"
+	provinces={
+		100 514 598 1370 2483 3317 6037 6069 
+	}
+	state_category = wasteland
+	manpower=622
+	history={
+		buildings = {
+			infrastructure = 0
+		}
+		owner = SIE
+		controller = SIE
+		add_core_of = SIE
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

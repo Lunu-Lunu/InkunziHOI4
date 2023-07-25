@@ -1,0 +1,21 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		719 2070 6578 6581 6588 7339 7343 7345 
+	}
+	state_category = town
+	manpower=598843
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6588 = { naval_base = 1 }
+		}
+		owner = JIN
+		controller = JIN
+		add_core_of = JIN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

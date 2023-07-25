@@ -1,0 +1,19 @@
+state={
+	id=381
+	name="STATE_381"
+	provinces={
+		78 101 223 747 805 1813 1825 2361 2601 3305 3677 4197 4202 4523 4537 4549 4578 4685 
+	}
+	state_category = rural
+	manpower=636240
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = KHA
+		controller = KHA
+		add_core_of = KHA
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=272
+	name="STATE_272"
+	provinces={
+		1415 2037 2115 2464 3631 3996 4279 4805 4911 4938 
+	}
+	state_category = city
+	manpower=4037880
+	history={
+		victory_points = {
+			3631 20
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		owner = TEN
+		controller = TEN
+		add_core_of = TEN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

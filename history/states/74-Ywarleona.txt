@@ -1,0 +1,25 @@
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		436 1508 1631 1645 1928 1996 2249 2585 2976 5998 6003 6008 6009 6011 6018 
+	}
+	state_category = large_town
+	manpower=3419989
+	history={
+		victory_points = {
+			1508 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			1508 = { naval_base = 1 }
+		}
+		owner = NOZ
+		controller = NOZ
+		add_core_of = NOZ
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

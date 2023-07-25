@@ -1,0 +1,29 @@
+
+state={
+	id=241
+	name="STATE_241"
+	provinces={
+		886 3395 3686 3893 7116 7127 7128 7129 7131 7132 7133 7135 7136 7138 
+	}
+	state_category = city
+	manpower=5519360
+	history={
+		victory_points = {
+			3686 20
+		}
+		victory_points = {
+			3395 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			3686 = { naval_base = 3 }
+		}
+		owner = HLV
+		controller = HLV
+		add_core_of = HLV
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
