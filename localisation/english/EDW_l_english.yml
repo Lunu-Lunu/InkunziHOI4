@@ -1,0 +1,27 @@
+﻿l_english:
+  ### Political ###
+  EDW:0 "Edwinar"
+  EDW_DEF:0 "Edwinar"
+  EDW_ADJ:0 "Edwinarian"
+  EDW_democratic:0 "Cyningate of Edwinar"
+  EDW_democratic_DEF:0 "the Cyningate of Edwinar"
+
+  EDW_neutrality_party:0 "Lidmann Supporters"
+  EDW_democratic_party:0 "HCPE"
+  EDW_democratic_party_long:0 "Honorable Cynnist Party of Edwinar"
+  FRS_communism_party:0 "ENCL"
+  FRS_communism_party_long:0 "Edwinar Neo-Cynnist League"
+  FRS_fascism_party:0 "Monarchist Radicals"
+
+  ### Character ###
+
+  ### Focus ###
+
+  ### Idea ###
+  EDW_nation_of_knights:0 "Edwinar Chivalry"
+  EDW_ervar_self_determination_movement:0 "Frogman Self-Determination Movement"
+
+  ### Event ###
+
+  ### Other ###
+  EDW_ervar_self_determination_movement_tt:0 "Recruitable Population Factor in Ervaric States: §R-50.0%§!\nAvailable Factories in Ervaric States: §R-50%§!"

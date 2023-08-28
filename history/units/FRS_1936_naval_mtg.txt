@@ -1,0 +1,38 @@
+﻿units = {
+
+	##### NAVAL UNITS #####
+	fleet = {
+		name = "Lidmakhil Fleet"			
+		naval_base = 5085
+		task_force = {
+			name = "Lidmakhil Fleet"
+			location = 5085  			
+			ship = { name = "HLS Froscburgen" pride_of_the_fleet = yes definition = carrier equipment = { ship_hull_carrier_1 = { amount = 1 owner = FRS version_name = "Froscburgen Class" } } }
+			ship = { name = "HLS Greneburgen" definition = battleship equipment = { ship_hull_heavy_1 = { amount = 1 owner = FRS version_name = "Greneburgen Class" } } }
+			ship = { name = "HLS Rihtscol" definition = battleship equipment = { ship_hull_heavy_1 = { amount = 1 owner = FRS version_name = "Greneburgen Class" } } }
+			ship = { name = "HLS Mavaburgen" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FRS version_name = "Mavaburgen Class" } } }		
+			ship = { name = "HLS Aelfric" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FRS version_name = "Mavaburgen Class" } } }		
+			ship = { name = "HLS Shemyg" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FRS version_name = "Mavaburgen Class" } } }			
+			ship = { name = "HLS Toscaburgen" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRS version_name = "Toscaburgen Class" } } }			
+			ship = { name = "HLS Sinaectung" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRS version_name = "Toscaburgen Class" } } }			
+			ship = { name = "HLS Hrothgar" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRS version_name = "Toscaburgen Class" } } }			
+			ship = { name = "HLS Oskaup" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRS version_name = "Toscaburgen Class" } } }			
+			ship = { name = "HLS Niwian" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRS version_name = "Toscaburgen Class" } } }		
+			ship = { name = "HLS Sabann" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Wigred" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Kuusamni" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Rokbustar" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Kaupi" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Yrek" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }		
+			ship = { name = "HLS Mabisle" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = FRS version_name = "Sabann Class" } } }
+			ship = { name = "HLS Yeulann" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Wing" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Chronicler" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Baldryth" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Aldhere" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Caestingas" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Vredsklau" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+			ship = { name = "HLS Yaxsi" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = FRS version_name = "Yeulann Class" } } }
+		}				
+	}
+}

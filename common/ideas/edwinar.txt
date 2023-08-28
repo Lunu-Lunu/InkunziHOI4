@@ -1,0 +1,45 @@
+ideas = {
+	country = {
+		EDW_nation_of_knights = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = communism }
+			}
+
+			removal_cost = -1
+
+			picture = FRA_scw_intervention_nationalists_focus
+
+			modifier = {
+				cavalry_org_factor = 0.1
+				cavalry_attack_factor = 0.1
+				cavalry_defence_factor = 0.1
+				cavalry_speed_factor = 0.05
+				neutrality_acceptance = 25
+				war_support_factor = 0.1
+				experience_gain_army_factor = -0.1
+			}
+		}
+		EDW_ervar_self_determination_movement = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = tfv_can_conscription_crisis
+
+			modifier = {
+				stability_factor = -0.3
+				custom_modifier_tooltip = EDW_ervar_self_determination_movement_tt
+			}
+		}
+	}
+}
